@@ -1,0 +1,3555 @@
+[
+  {
+    "element_id": "nvidia_financial_highlights_text_1",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "Our supply, which includes inventory on hand, purchase obligations and prepaid supply agreements, has grown \nsignificantly due to current supply chain conditions, complexity of our products, and recent reductions in demand. At the \nend of fiscal year 2023, purchase obligations and prepaid supply agreements represented more than half of our total \nsupply. We may incur inventory provisions if our inventory or supply commitments are misaligned with demand for our \nproducts.",
+    "metadata": {
+      "block_number": 0,
+      "char_count": 475
+    },
+    "bbox": [
+      48.04,
+      41.69,
+      548.56,
+      94.63
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_2",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "Our demand predictions may not be correct, as we have experienced from time to time. Product transitions are complex \nand frequently negatively impact our revenue as we often ship both new and legacy architecture products simultaneously \nand we and our channel partners prepare to ship and support new products. Our architecture transitions of Data Center, \nProfessional Visualization, and Gaming products may impair our ability to predict demand and impact our supply mix. \nQualification time for new products, customers anticipating product transitions and channel partners reducing channel \ninventory of legacy architectures ahead of new product introductions can create reductions or volatility in our revenue. \nWe have experienced and may in the future experience reduced demand for current generation architectures when \ncustomers anticipate transitions, and we may be unable to sell multiple product architectures at the same time for \ncurrent and future architecture transitions. While we have managed prior product transitions and have previously sold \nmultiple product architectures at the same time, these transitions are difficult and prior trends may not continue. If we \nare unable to execute our architectural transitions as planned for any reason, our financial results may be negatively \nimpacted.",
+    "metadata": {
+      "block_number": 1,
+      "char_count": 1314
+    },
+    "bbox": [
+      48.04,
+      102.84,
+      548.57,
+      229.15
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_3",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "We sell most of our products through channel partners, who sell to distributors, retailers, and/or end customers. As a \nresult, the decisions made by our channel partners, distributors, retailers, and in response to changing market conditions \nand changes in end user demand for our products have impacted and could in the future continue to impact our ability to \nproperly forecast demand, particularly as they are based on estimates provided by various downstream parties.",
+    "metadata": {
+      "block_number": 2,
+      "char_count": 474
+    },
+    "bbox": [
+      48.04,
+      237.36,
+      548.45,
+      279.82
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_4",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "If we underestimate our customers' future demand for our products, our foundry partners may not have adequate lead-\ntime or capacity to increase production and we may not be able to obtain sufficient inventory to fill orders on a timely \nbasis. Even if we are able to increase production levels to meet customer demand, we may not be able to do so in a cost-\neffective or timely manner, or our contract manufacturers may experience supply constraints. If we fail to fulfill our \ncustomers’ orders on a timely basis, or at all, our customer relationships could be damaged, we could lose revenue and \nmarket share and our reputation could be harmed.",
+    "metadata": {
+      "block_number": 3,
+      "char_count": 647
+    },
+    "bbox": [
+      48.04,
+      288.03,
+      548.57,
+      351.45
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_5",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "If we overestimate our customers’ future demand for our products, or if customers cancel or defer orders or choose to \npurchase from our competitors, we may not be able to reduce our inventory or other contractual purchase commitments. \nIn the past, we have experienced a reduction in average selling prices, including due to channel pricing programs that we \nhave implemented and may continue to implement, as a result of our overestimation of future demand, and we may need \nto continue these reductions. We have had to increase prices for certain of our products as a result of our suppliers’ \nincrease in prices, and we may need to continue to do so for other products in the future. We have also written-down our \ninventory, incurred cancellation penalties, and recorded impairments. These impacts were amplified by our placement of \nnon-cancellable and non-returnable purchasing terms, well in advance of our historical lead times and could be \nexacerbated if we need to make changes to the design of future products. The risk of these impacts has increased as our \npurchase obligations and prepaids have grown and become a greater portion of our total supply while our revenue has \nsequentially declined. All of these factors may negatively impact our gross margins and financial results.",
+    "metadata": {
+      "block_number": 4,
+      "char_count": 1295
+    },
+    "bbox": [
+      48.04,
+      359.66,
+      548.6,
+      475.49
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_6",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "We build technology and products for use cases and applications that may be new or may not yet exist. Examples include \nour Omniverse platform and third-party large language models and generative models. Our demand estimates for these \nuse cases and applications can be incorrect and create volatility in our revenue or supply levels, and we may not be able to \ngenerate any revenue from these use cases and applications.",
+    "metadata": {
+      "block_number": 5,
+      "char_count": 421
+    },
+    "bbox": [
+      48.04,
+      483.7,
+      548.61,
+      526.15
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_7",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "Challenges in estimating demand could become more pronounced or volatile in the future on both a global and regional \nbasis. Extended lead times may occur if we experience other supply constraints caused by natural disasters, pandemics or \nother events, such as the COVID-19 pandemic. In addition, geopolitical tensions, such as those involving Taiwan and \nChina, which comprise a significant portion of our revenue and where we have suppliers, contract manufacturers, and \nassembly partners who are critical to our supply continuity, could have a material adverse impact on us.",
+    "metadata": {
+      "block_number": 6,
+      "char_count": 578
+    },
+    "bbox": [
+      48.04,
+      534.36,
+      548.58,
+      587.3
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_8",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "The use of our GPUs for other than that for which they were designed and marketed, including new and unexpected use \ncases, has impacted and can in the future impact demand for our products, including by leading to inconsistent spikes \nand drops in demand. For example, a number of years ago, our Gaming GPUs began to be used for digital currency mining, \nincluding blockchain-based platforms such as Ethereum. It is difficult for us to estimate with any reasonable degree of \nprecision, the past or current impact of cryptocurrency mining, or forecast the future impact of cryptocurrency mining, \non demand for our products. Volatility in the cryptocurrency market, including new compute technologies, price changes \nin cryptocurrencies, government cryptocurrency policies and regulations, new cryptocurrency standards, and changes in \nthe method of verifying blockchain transactions, has impacted and can in the future impact cryptocurrency mining and \ndemand for our products and can further impact our ability to estimate demand for our products. Changes to \ncryptocurrency standards and processes including, but not limited to, the recently implemented Ethereum 2.0 merge may \ndecrease the usage of GPUs for Ethereum mining as well as create increased aftermarket sales of our GPUs, which could \nnegatively impact retail prices for our GPUs and reduce demand for our new GPUs. We previously introduced Lite Hash",
+    "metadata": {
+      "block_number": 7,
+      "char_count": 1416
+    },
+    "bbox": [
+      48.04,
+      595.51,
+      548.54,
+      721.82
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_9",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "Rate, or LHR, GeForce GPUs with limited Ethereum mining capability and provided CMP products in an effort to address \ndemand from gamers and direct miners to CMP. With the Ethereum 2.0 merge, NVIDIA Ampere and Ada Lovelace \narchitectures no longer include LHR. In addition, our new products or previously sold products may be resold online or on \nthe unauthorized “gray market,” which also makes demand forecasting difficult. Gray market products and reseller \nmarketplaces compete with our new products and distribution channels.",
+    "metadata": {
+      "block_number": 0,
+      "char_count": 530
+    },
+    "bbox": [
+      48.04,
+      41.69,
+      548.55,
+      94.63
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_10",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "Additionally, we depend on developers and other third parties to build accelerated computing applications that leverage \nour platforms. We also rely on third-party content providers and publishers to make their content available on our \nplatforms such as GeForce NOW. Failure by developers to build applications that leverage our platforms, or failure by \nthird-party content providers or publishers to make their content available on reasonable terms or at all for use by our \ncustomers or end users on our platforms, could adversely affect customer demand.",
+    "metadata": {
+      "block_number": 1,
+      "char_count": 558
+    },
+    "bbox": [
+      48.04,
+      102.84,
+      548.54,
+      155.78
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_11",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "Dependency on third-party suppliers and their technology to manufacture, assemble, test, package or design our \nproducts reduces our control over product quantity and quality, manufacturing yields, development, enhancement and \nproduct delivery schedules and could harm our business.",
+    "metadata": {
+      "block_number": 2,
+      "char_count": 283
+    },
+    "bbox": [
+      48.04,
+      163.99,
+      548.49,
+      195.96
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_12",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "We depend on foundries to manufacture our semiconductor wafers using their fabrication equipment and techniques. \nWe do not assemble, test or package our products, but instead contract with independent subcontractors. We also rely \non third-party software development tools to assist us in the design, simulation and verification of new products or \nproduct enhancements. The design requirements necessary to meet consumer demands for greater functionality from \nour products may exceed the capabilities of available software development tools. We face several risks which have \nadversely affected or could adversely affect our ability to meet customer demand and scale our supply chain, negatively \nimpact longer-term demand for our products and services, and adversely affect our business operations, gross margin, \nrevenue and/or financial results, including:",
+    "metadata": {
+      "block_number": 3,
+      "char_count": 862
+    },
+    "bbox": [
+      48.04,
+      201.26,
+      548.55,
+      285.64
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_13",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nlack of guaranteed supply of wafer, component and capacity or decommitment and potential higher wafer and \ncomponent prices, from incorrectly estimating demand and failing to place orders with our suppliers with \nsufficient quantities or in a timely manner;",
+    "metadata": {
+      "block_number": 4,
+      "char_count": 259
+    },
+    "bbox": [
+      65.51,
+      293.85,
+      548.41,
+      325.82
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_14",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nfailure by our foundries or contract manufacturers to procure raw materials or to provide adequate levels of \nmanufacturing or test capacity for our products;",
+    "metadata": {
+      "block_number": 5,
+      "char_count": 160
+    },
+    "bbox": [
+      65.51,
+      334.04,
+      548.48,
+      355.52
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_15",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nfailure by our foundries to develop, obtain or successfully implement high quality process technologies, including \ntransitions to smaller geometry process technologies such as advanced process node technologies and memory \ndesigns needed to manufacture our products;",
+    "metadata": {
+      "block_number": 6,
+      "char_count": 269
+    },
+    "bbox": [
+      65.51,
+      363.74,
+      548.45,
+      395.71
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_16",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nlimited number and geographic concentration of global suppliers, foundries, contract manufacturers, assembly \nand test providers, and memory manufacturers;",
+    "metadata": {
+      "block_number": 7,
+      "char_count": 157
+    },
+    "bbox": [
+      65.51,
+      403.92,
+      548.49,
+      425.41
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_17",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nloss of a supplier and additional expense and/or production delays as a result of qualifying a new foundry or \nsubcontractor and commencing volume production or testing in the event of a loss of or a decision to add or \nchange a supplier;",
+    "metadata": {
+      "block_number": 8,
+      "char_count": 240
+    },
+    "bbox": [
+      65.51,
+      433.62,
+      548.45,
+      465.59
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_18",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nlack of direct control over product quantity, quality and delivery schedules;",
+    "metadata": {
+      "block_number": 9,
+      "char_count": 79
+    },
+    "bbox": [
+      65.51,
+      473.8,
+      387.31,
+      484.81
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_19",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nsuppliers or their suppliers failing to supply high quality products and/or making changes to their products \nwithout our qualification;",
+    "metadata": {
+      "block_number": 10,
+      "char_count": 138
+    },
+    "bbox": [
+      65.51,
+      493.02,
+      548.45,
+      514.51
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_20",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\ndelays in product shipments, shortages, a decrease in product quality and/or higher expenses in the event our \nsubcontractors or foundries prioritize our competitors’ or other customers’ orders over ours;",
+    "metadata": {
+      "block_number": 11,
+      "char_count": 206
+    },
+    "bbox": [
+      65.51,
+      522.72,
+      548.4,
+      544.21
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_21",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nrequirements to place orders that are not cancellable upon changes in demand or requirements to prepay for \nsupply in advance;",
+    "metadata": {
+      "block_number": 12,
+      "char_count": 128
+    },
+    "bbox": [
+      65.51,
+      552.42,
+      548.48,
+      573.91
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_22",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nlow manufacturing yields resulting from a failure in our product design or a foundry’s proprietary process \ntechnology; and",
+    "metadata": {
+      "block_number": 13,
+      "char_count": 125
+    },
+    "bbox": [
+      65.51,
+      582.12,
+      548.39,
+      603.61
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_23",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\ndisruptions in manufacturing, assembly and other processes due to closures related to heat waves or other \nnatural disasters and electricity conservation efforts.",
+    "metadata": {
+      "block_number": 14,
+      "char_count": 164
+    },
+    "bbox": [
+      65.51,
+      611.82,
+      548.38,
+      633.31
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_24",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "Defects in our products have caused and could cause us to incur significant expenses to remediate, which can damage \nour reputation and cause us to lose market share.",
+    "metadata": {
+      "block_number": 15,
+      "char_count": 166
+    },
+    "bbox": [
+      48.04,
+      641.52,
+      548.25,
+      663.01
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_25",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "Our hardware and software product offerings are complex and they have in the past and may in the future contain \ndefects or security vulnerabilities, or experience failures or unsatisfactory performance due to any number of issues in \ndesign, fabrication, packaging, materials and/or use within a system. These risks may increase as our products are \nintroduced into new devices, markets, technologies and applications or as new versions are released. These risks further \nincrease when we rely on partners to supply and manufacture components that are used in our products, as these",
+    "metadata": {
+      "block_number": 16,
+      "char_count": 583
+    },
+    "bbox": [
+      48.04,
+      668.31,
+      548.48,
+      721.24
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_26",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "arrangements reduce our direct control over production. Although arrangements with component providers may contain \nprovisions for product defect expense reimbursement, we generally remain responsible to the customer for warranty \nproduct defects that may occur from time to time. Some failures in our products or services have been in the past and \nmay in the future be only discovered after a product or service has been shipped or used. Undiscovered vulnerabilities in \nour products or services could result in loss of data or intangible property, or expose our end customers to unscrupulous \nthird parties who develop and deploy malicious software programs that could attack our products or services. Defects or \nfailure of our products to perform to specifications could lead to substantial damage to the products or the product in \nwhich our device has been integrated by OEMs, ODMs, AIBs and automotive manufacturers and tier 1 automotive \nsuppliers, and to the user of such end product. Any such defect may cause us to incur significant warranty, support and \nrepair or replacement costs as part of a product recall or otherwise, write-off the value of related inventory, and divert \nthe attention of our engineering and management personnel from our product development efforts to find and correct \nthe issue. Our efforts to remedy these issues may not be timely or satisfactory to our customers. An error or defect in \nnew products, releases, or related software drivers after commencement of commercial shipments could result in failure \nto achieve market acceptance, loss of design wins, temporary or permanent withdrawal from a product or market, and \nharm to our relationships with existing and prospective customers and partners and consumers’ perceptions of our \nbrand, which would in turn negatively impact our business operations, gross margin, revenue and/or financial results. We \nmay be required to reimburse our customers, partners or consumers, including for costs to repair or replace products in \nthe field or in connection with indemnification obligations, or pay fines imposed by regulatory agencies.",
+    "metadata": {
+      "block_number": 0,
+      "char_count": 2127
+    },
+    "bbox": [
+      48.04,
+      41.69,
+      548.61,
+      230.9
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_27",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "For example, a defect was identified in a third-party component embedded in certain Data Center products. This defect \nhas had, and other defects may in the future have, an adverse effect on our cost and supply of components and finished \ngoods. These costs could be significant in future periods. We recorded a net warranty liability during fiscal year 2023 \nprimarily in connection with this defect. While we believe we have accurately recorded for warranty obligations, we may \nneed to record additional amounts in the future if our estimate proves to be incorrect. In general, if a product liability \nclaim regarding any of our products is brought against us, even if the alleged damage is due to the actions or inactions of \na third party, such as within our supply chain, the cost of defending the claim could be significant and would divert the \nefforts of our technical and management personnel and harm our business. Further, our business liability insurance may \nbe inadequate or future coverage may be unavailable on acceptable terms, which could adversely impact our financial \nresults.",
+    "metadata": {
+      "block_number": 1,
+      "char_count": 1098
+    },
+    "bbox": [
+      48.04,
+      239.11,
+      548.57,
+      344.46
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_28",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "Risks Related to Our Global Operating Business",
+    "metadata": {
+      "block_number": 2,
+      "char_count": 46
+    },
+    "bbox": [
+      48.04,
+      355.58,
+      245.76,
+      366.59
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_29",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "Adverse economic conditions may harm our business.",
+    "metadata": {
+      "block_number": 3,
+      "char_count": 50
+    },
+    "bbox": [
+      48.04,
+      371.89,
+      271.18,
+      382.89
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_30",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "Economic and industry uncertainty or changes, including recession or slowing growth, inflation, changes or uncertainty in \nfiscal, monetary, or trade policy, disruptions to capital markets, currency fluctuations, higher interest rates, tighter credit, \nlower capital expenditures by businesses, including on IT infrastructure, increases in unemployment, labor shortages, and \nlower consumer confidence and spending, have in the past and/or could in the future have adverse, wide-ranging effects \non our business and financial results, including:",
+    "metadata": {
+      "block_number": 4,
+      "char_count": 545
+    },
+    "bbox": [
+      48.04,
+      388.19,
+      548.54,
+      441.13
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_31",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "•\nincreased costs for wafers, components, logistics, and other supply chain expenses, which have negatively \nimpacted our gross margin and may continue to do so;",
+    "metadata": {
+      "block_number": 5,
+      "char_count": 161
+    },
+    "bbox": [
+      65.51,
+      449.34,
+      548.37,
+      470.83
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_32",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "•\nincreased supply, employee, facilities and infrastructure costs and volatility in the financial markets, which have \nreduced and may in the future reduce our margins;",
+    "metadata": {
+      "block_number": 6,
+      "char_count": 168
+    },
+    "bbox": [
+      65.51,
+      479.04,
+      548.47,
+      500.53
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_33",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "•\ndecrease in demand for our products, services and technologies and those of our customers, partners or \nlicensees;",
+    "metadata": {
+      "block_number": 7,
+      "char_count": 116
+    },
+    "bbox": [
+      65.51,
+      508.74,
+      548.45,
+      530.23
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_34",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "•\nthe inability of our suppliers to deliver on their supply commitments to us and our customers’ or our licensees’ \ninability to supply products to customers and/or end users;",
+    "metadata": {
+      "block_number": 8,
+      "char_count": 175
+    },
+    "bbox": [
+      65.51,
+      538.44,
+      548.38,
+      559.93
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_35",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "•\nlimits on our ability to forecast operating results and make business decisions;",
+    "metadata": {
+      "block_number": 9,
+      "char_count": 82
+    },
+    "bbox": [
+      65.51,
+      568.14,
+      405.27,
+      579.15
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_36",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "•\nthe insolvency of key suppliers, distributors, customers or licensing parties; reduced profitability may also cause \nsome customers to scale back operations, exit businesses, or file for bankruptcy protection and potentially cease \noperations; lead to mergers, consolidations or strategic alliances among other companies, which could adversely \naffect our ability to compete effectively; and",
+    "metadata": {
+      "block_number": 10,
+      "char_count": 393
+    },
+    "bbox": [
+      65.51,
+      587.36,
+      548.58,
+      629.81
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_37",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "•\nincreased credit and collectability risks, higher borrowing costs or reduced availability of capital markets, reduced \nliquidity, adverse impacts on our suppliers, failures of counterparties including financial institutions and insurers, \nasset impairments, and declines in the value of our financial instruments.",
+    "metadata": {
+      "block_number": 11,
+      "char_count": 315
+    },
+    "bbox": [
+      65.51,
+      638.02,
+      548.53,
+      669.99
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_38",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "International operations are a significant part of our business, which exposes us to us to risks that could harm our \nbusiness.",
+    "metadata": {
+      "block_number": 12,
+      "char_count": 127
+    },
+    "bbox": [
+      48.04,
+      678.21,
+      548.31,
+      699.69
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_39",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "We conduct our business and have offices worldwide. Our semiconductor wafers are manufactured, assembled, tested \nand packaged by third parties located outside of the United States, and we generated 69% of our revenue during fiscal",
+    "metadata": {
+      "block_number": 13,
+      "char_count": 231
+    },
+    "bbox": [
+      48.04,
+      704.99,
+      548.43,
+      726.48
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_40",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "distribution operations. We have engaged with customers in China to provide alternative products not subject to the new \nlicense requirements, such as our new A800 offering.",
+    "metadata": {
+      "block_number": 0,
+      "char_count": 173
+    },
+    "bbox": [
+      48.04,
+      41.69,
+      548.45,
+      63.18
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_41",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "Management of these new license and other requirements is complicated and time consuming. Our results and \ncompetitive position may be harmed if customers in China do not want to purchase our alternative product offerings, if \ncustomers purchase product from competitors, or if customers develop their own internal solution, if the USG does not \ngrant licenses in a timely manner or denies licenses to significant customers, or if we incur significant transition costs.",
+    "metadata": {
+      "block_number": 1,
+      "char_count": 469
+    },
+    "bbox": [
+      48.04,
+      71.39,
+      548.52,
+      113.85
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_42",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "During fiscal year 2023, we reopened our offices worldwide. We incurred incremental expenses and related in-office costs \nas we ramped onsite services.",
+    "metadata": {
+      "block_number": 3,
+      "char_count": 151
+    },
+    "bbox": [
+      48.04,
+      138.36,
+      548.45,
+      159.85
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_43",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "Restrictions may be imposed or reinstated as the pandemic resurfaces, such as lockdown measures due to COVID-19 \ncontainment efforts in China. During fiscal year 2023, end customer sales for our products in China have been negatively \nimpacted by lockdowns and this impact may continue if lockdowns return. COVID-19-related disruptions have created \nand may continue to create supply chain and logistics constraints. Challenges in estimating demand could become more \npronounced or volatile in the future on both a global and regional basis.",
+    "metadata": {
+      "block_number": 4,
+      "char_count": 541
+    },
+    "bbox": [
+      48.04,
+      168.06,
+      548.58,
+      221.0
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_44",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "In fiscal year 2023, we stopped direct sales to Russia and later in the year, we closed business operations in Russia. Direct \nsales to Russia in fiscal year 2022 were immaterial. Our revenue to partners that sell into Russia may have been negatively \nimpacted due to the war in Ukraine.",
+    "metadata": {
+      "block_number": 6,
+      "char_count": 287
+    },
+    "bbox": [
+      48.04,
+      245.52,
+      548.38,
+      277.49
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_45",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "Termination of the Arm Share Purchase Agreement",
+    "metadata": {
+      "block_number": 7,
+      "char_count": 47
+    },
+    "bbox": [
+      48.04,
+      285.7,
+      262.29,
+      296.71
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_46",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "In February 2022, NVIDIA and SoftBank announced the termination of the Share Purchase Agreement whereby NVIDIA \nwould have acquired Arm from SoftBank due to significant regulatory challenges preventing the completion of the \ntransaction. We recorded an acquisition termination cost of $1.35 billion in fiscal year 2023 reflecting the write-off of the \nprepayment provided at signing.",
+    "metadata": {
+      "block_number": 8,
+      "char_count": 383
+    },
+    "bbox": [
+      48.04,
+      302.01,
+      548.53,
+      344.46
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_47",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "Fiscal Year 2023 Summary",
+    "metadata": {
+      "block_number": 9,
+      "char_count": 24
+    },
+    "bbox": [
+      48.04,
+      352.67,
+      158.25,
+      363.68
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_48",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "2023\nJanuary 30,",
+    "metadata": {
+      "block_number": 13,
+      "char_count": 16
+    },
+    "bbox": [
+      362.0,
+      385.0,
+      456.06,
+      400.36
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_49",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "($ in millions, except per share data)",
+    "metadata": {
+      "block_number": 15,
+      "char_count": 38
+    },
+    "bbox": [
+      387.15,
+      406.35,
+      497.38,
+      414.91
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_50",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "Revenue\n$ \n26,974 \n$ \n26,914 \n — %",
+    "metadata": {
+      "block_number": 16,
+      "char_count": 34
+    },
+    "bbox": [
+      50.6,
+      418.0,
+      545.23,
+      426.56
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_51",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "Gross margin\n 56.9 %\n 64.9 %\nDown 8.0 pts",
+    "metadata": {
+      "block_number": 17,
+      "char_count": 41
+    },
+    "bbox": [
+      50.6,
+      429.42,
+      543.44,
+      438.21
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_52",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "Operating expenses\n$ \n11,132 \n$ \n7,434 \nUp 50%",
+    "metadata": {
+      "block_number": 18,
+      "char_count": 46
+    },
+    "bbox": [
+      50.6,
+      441.29,
+      545.24,
+      449.86
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_53",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "Income from operations\n$ \n4,224 \n$ \n10,041 \nDown 58%",
+    "metadata": {
+      "block_number": 19,
+      "char_count": 52
+    },
+    "bbox": [
+      50.6,
+      452.72,
+      545.26,
+      461.5
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_54",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "Net income\n$ \n4,368 \n$ \n9,752 \nDown 55%",
+    "metadata": {
+      "block_number": 20,
+      "char_count": 39
+    },
+    "bbox": [
+      50.6,
+      464.37,
+      545.26,
+      473.15
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_55",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "Net income per diluted share\n$ \n1.74 \n$ \n3.85 \nDown 55%",
+    "metadata": {
+      "block_number": 21,
+      "char_count": 55
+    },
+    "bbox": [
+      50.6,
+      476.01,
+      545.26,
+      484.8
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_56",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "We specialize in markets where our computing platforms can provide tremendous acceleration for applications. These \nplatforms incorporate processors, interconnects, software, algorithms, systems, and services to deliver unique value. Our \nplatforms address four large markets where our expertise is critical: Data Center, Gaming, Professional Visualization, and \nAutomotive.",
+    "metadata": {
+      "block_number": 22,
+      "char_count": 374
+    },
+    "bbox": [
+      48.04,
+      496.85,
+      548.55,
+      539.3
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_57",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "Revenue for fiscal year 2023 revenue was $26.97 billion, flat compared with a year ago.",
+    "metadata": {
+      "block_number": 23,
+      "char_count": 87
+    },
+    "bbox": [
+      48.04,
+      547.52,
+      401.99,
+      558.52
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_58",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "Data Center revenue was up 41% from a year ago led by strong growth from hyperscale customers and also reflects \npurchases made by several CSP partners to support multi-year cloud service agreements for our new NVIDIA AI cloud \nservice offerings and our research and development activities.",
+    "metadata": {
+      "block_number": 24,
+      "char_count": 290
+    },
+    "bbox": [
+      48.04,
+      566.73,
+      548.57,
+      598.7
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_59",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "Gaming revenue was down 27% from a year ago reflecting lower sell-in to partners to help reduce channel inventory levels \nas global macro-economic conditions and COVID-19 related disruptions in China weighed on gaming demand.",
+    "metadata": {
+      "block_number": 25,
+      "char_count": 225
+    },
+    "bbox": [
+      48.04,
+      606.92,
+      548.44,
+      628.4
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_60",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "Professional Visualization revenue was down 27% from a year ago reflecting a lower sell-in to partners to help reduce \nchannel inventory levels.",
+    "metadata": {
+      "block_number": 26,
+      "char_count": 144
+    },
+    "bbox": [
+      48.04,
+      636.62,
+      548.56,
+      658.1
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_61",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "Automotive revenue was up 60% from a year ago reflecting growth in sales of self-driving solutions, computing solutions \nfor electric vehicle makers and strength in sales of AI cockpit solutions. The increase also included growth in automotive \ndevelopment arrangements.",
+    "metadata": {
+      "block_number": 27,
+      "char_count": 270
+    },
+    "bbox": [
+      48.04,
+      666.32,
+      548.45,
+      698.29
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_62",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "OEM and Other revenue was down 61% from a year ago driven by notebook OEM and CMP. CMP revenue was nominal in \nfiscal year 2023 and $550 million in fiscal year 2022.",
+    "metadata": {
+      "block_number": 28,
+      "char_count": 165
+    },
+    "bbox": [
+      48.04,
+      706.5,
+      548.44,
+      727.99
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_63",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Gross margin for fiscal year 2023 declined from a year ago, driven by $2.17 billion of inventory charges largely relating to \nexcess supply of NVIDIA Ampere architecture Gaming and Data Center products as compared to the demand \nexpectations for these products, particularly for the expected demand in China. The inventory charges were comprised of \n$1.04 billion for inventory on hand and $1.13 billion for inventory purchase obligations in excess of our demand \nexpectations.",
+    "metadata": {
+      "block_number": 0,
+      "char_count": 477
+    },
+    "bbox": [
+      48.04,
+      41.69,
+      548.62,
+      94.63
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_64",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Operating expenses, which included a $1.35 billion acquisition termination charge related to the Arm transaction, were up \n50% from a year ago. The increase also reflected compensation, data center infrastructure, and engineering development \ncosts.",
+    "metadata": {
+      "block_number": 1,
+      "char_count": 249
+    },
+    "bbox": [
+      48.04,
+      102.84,
+      548.43,
+      134.81
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_65",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Cash, cash equivalents and marketable securities were $13.30 billion.",
+    "metadata": {
+      "block_number": 2,
+      "char_count": 69
+    },
+    "bbox": [
+      48.04,
+      143.02,
+      329.43,
+      154.03
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_66",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "During fiscal year 2023, we returned $10.44 billion to shareholders in the form of share repurchases and cash dividends. \nAs of the end of fiscal year 2023, we had $7.23 billion remaining under our share repurchase authorization through \nDecember 2023.",
+    "metadata": {
+      "block_number": 3,
+      "char_count": 252
+    },
+    "bbox": [
+      48.04,
+      162.24,
+      548.39,
+      194.21
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_67",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Market Platform Highlights",
+    "metadata": {
+      "block_number": 4,
+      "char_count": 26
+    },
+    "bbox": [
+      48.04,
+      202.42,
+      165.74,
+      213.43
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_68",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Data Center revenue for fiscal year 2023 was $15.01 billion, up 41% from fiscal year 2022. The strong growth in Data \nCenter revenue was influenced by hyperscaler and cloud usage of our accelerated computing platforms and networking \nportfolio. In Data Center, we announced the NVIDIA Hopper GPU architecture and began ramping the first products \nbased on the architecture, including the NVIDIA H100 Tensor Core GPU. The NVIDIA OVX server reference design \nlaunched for digital twins and other Omniverse applications. We completed two new large language models for cloud AI \nservices — NVIDIA NeMo LLM and NVIDIA BioNeMo LLM. Additionally, we announced the NVIDIA Spectrum-4 end-to-end \n400Gbps networking platform and began shipping Quantum-2 in December 2022.",
+    "metadata": {
+      "block_number": 5,
+      "char_count": 761
+    },
+    "bbox": [
+      48.04,
+      218.73,
+      548.54,
+      292.63
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_69",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Gaming revenue for fiscal year 2023 was $9.07 billion, down 27% from fiscal year 2022. Gaming results were influenced \nby the rapid change in economic conditions causing excess inventory with our channel partners. We introduced pricing \nprograms for our channel partners and started undershipping GPU supply to the partners so that we could lower \ninventory in the channel. As we exited fiscal year 2023, we have made meaningful progress in establishing lower inventory \nlevels with our channel partners. In Gaming, we announced the new Ada Lovelace GPU architecture, and introduced the \nfirst products based on Ada, including the GeForce RTX 4090, RTX 4080, and RTX 4070 Ti desktop GPUs and laptop GPUs \nfeatured in over 170 laptop designs. We introduced NVIDIA DLSS 3 for over 50 games and applications. We brought \nGeForce RTX 4080-class performance to the GeForce NOW Ultimate membership tier.",
+    "metadata": {
+      "block_number": 6,
+      "char_count": 897
+    },
+    "bbox": [
+      48.04,
+      300.84,
+      548.51,
+      385.22
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_70",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Professional Visualization revenue for fiscal year 2023 was $1.54 billion, down 27% from fiscal year 2022. Professional \nVisualization results were influenced by the rapid change in economic conditions causing excess inventory with our OEM \npartners. In Professional Visualization, we added new NVIDIA Ampere architecture RTX GPUs for workstations. We also \nannounced Omniverse Avatar Cloud Engine and Omniverse Cloud and released a major update to NVIDIA Omniverse \nEnterprise.",
+    "metadata": {
+      "block_number": 7,
+      "char_count": 478
+    },
+    "bbox": [
+      48.04,
+      393.44,
+      548.51,
+      446.37
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_71",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Automotive revenue for fiscal year 2023 grew 60% compared to fiscal year 2022 to $903 million. In Automotive, we \nstarted production of the NVIDIA DRIVE Orin autonomous vehicle SOC and introduced next-generation NVIDIA DRIVE \nThor.",
+    "metadata": {
+      "block_number": 8,
+      "char_count": 231
+    },
+    "bbox": [
+      48.04,
+      454.58,
+      548.44,
+      486.55
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_72",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Critical Accounting Policies and Estimates",
+    "metadata": {
+      "block_number": 9,
+      "char_count": 42
+    },
+    "bbox": [
+      48.04,
+      497.4,
+      244.14,
+      509.63
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_73",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Management’s discussion and analysis of financial condition and results of operations are based upon our consolidated \nfinancial statements, which have been prepared in accordance with accounting principles generally accepted in the \nUnited States, or U.S. GAAP. The preparation of these financial statements requires us to make estimates and judgments \nthat affect the reported amounts of assets, liabilities, revenue, cost of revenue, expenses and related disclosure of \ncontingencies. On an on-going basis, we evaluate our estimates, including those related to inventories, revenue \nrecognition, and income taxes. We base our estimates on historical experience and on various other assumptions that are \nbelieved to be reasonable under the circumstances, the results of which form the basis for making judgments about the \ncarrying values of assets and liabilities.",
+    "metadata": {
+      "block_number": 10,
+      "char_count": 868
+    },
+    "bbox": [
+      48.04,
+      515.15,
+      548.52,
+      599.53
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_74",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "We believe the following critical accounting policies affect our significant judgments and estimates used in the \npreparation of our consolidated financial statements. Our management has discussed the development and selection of \nthese critical accounting policies and estimates with the Audit Committee of our Board of Directors. The Audit \nCommittee has reviewed our disclosures relating to our critical accounting policies and estimates in this Annual Report on \nForm 10-K.",
+    "metadata": {
+      "block_number": 11,
+      "char_count": 477
+    },
+    "bbox": [
+      48.04,
+      607.74,
+      548.42,
+      660.68
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_75",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Inventory cost is computed on an adjusted standard basis, which approximates actual cost on an average or first-in, first-\nout basis. We charge cost of sales for inventory provisions to write-down our inventory to the lower of cost or net \nrealizable value or for obsolete or excess inventory, and for excess product purchase commitments. Most of our inventory \nprovisions relate to excess quantities of products or components, based on our inventory levels and future product",
+    "metadata": {
+      "block_number": 13,
+      "char_count": 476
+    },
+    "bbox": [
+      48.04,
+      685.19,
+      548.52,
+      727.65
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_76",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 6,
+    "element_type": "text",
+    "content": "purchase commitments compared to assumptions about future demand and market conditions, which requires \nmanagement judgment.",
+    "metadata": {
+      "block_number": 0,
+      "char_count": 124
+    },
+    "bbox": [
+      48.04,
+      41.69,
+      548.48,
+      63.18
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_77",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 6,
+    "element_type": "text",
+    "content": "Situations that may result in excess or obsolete inventory or excess product purchase commitments include changes in \nbusiness and economic conditions, changes in market conditions, sudden and significant decreases in demand for our \nproducts, inventory obsolescence because of changing technology and customer requirements, new product \nintroductions resulting in less demand for existing products or inconsistent spikes in demand due to unexpected end use \ncases, failure to estimate customer demand properly, ordering in advance of historical lead-times and the impact of \nchanges in future demand, or increase in demand for competitive products, including competitive actions. Cancellation or \ndeferral of customer purchase orders could result in our holding excess inventory.",
+    "metadata": {
+      "block_number": 1,
+      "char_count": 780
+    },
+    "bbox": [
+      48.04,
+      71.39,
+      548.54,
+      145.29
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_78",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 6,
+    "element_type": "text",
+    "content": "The overall net effect on our gross margin from inventory provisions and sales of items previously written down was an \nunfavorable impact of 7.5% in fiscal year 2023 and 0.9% in fiscal year 2022. As a fabless semiconductor company, we \nmust make commitments to purchase inventory based on forecasts of future customer demand. In doing so, we must \naccount for our third-party manufacturers' lead times and constraints. In the past, our manufacturing lead times have \nbeen long, and in some cases, extended beyond twelve months for some products. We place non-cancellable inventory \norders for certain product components in advance of our historical lead times, pay premiums and provide deposits to \nsecure future supply and capacity. We also adjust to other market factors, such as product offerings and pricing actions \nby our competitors, new product transitions, and macroeconomic conditions - all of which may impact demand for our \nproducts.",
+    "metadata": {
+      "block_number": 2,
+      "char_count": 947
+    },
+    "bbox": [
+      48.04,
+      153.51,
+      548.53,
+      248.37
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_79",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 6,
+    "element_type": "text",
+    "content": "Refer to the Gross Profit and Gross Margin discussion below in this Management's Discussion and Analysis for further \ndiscussion.",
+    "metadata": {
+      "block_number": 3,
+      "char_count": 129
+    },
+    "bbox": [
+      48.04,
+      253.67,
+      548.45,
+      275.16
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_80",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 6,
+    "element_type": "text",
+    "content": "Revenue Recognition",
+    "metadata": {
+      "block_number": 4,
+      "char_count": 19
+    },
+    "bbox": [
+      48.04,
+      286.28,
+      135.75,
+      297.29
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_81",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 6,
+    "element_type": "text",
+    "content": "We derive our revenue from product sales, including hardware and systems, license and development arrangements, \nsoftware licensing, and cloud services. We determine revenue recognition through the following steps: (1) identification \nof the contract with a customer; (2) identification of the performance obligations in the contract; (3) determination of the \ntransaction price; (4) allocation of the transaction price to the performance obligations in the contract (where revenue is \nallocated on a relative standalone selling price basis by maximizing the use of observable inputs to determine the \nstandalone selling price for each performance obligation); and (5) recognition of revenue when, or as, we satisfy a \nperformance obligation.",
+    "metadata": {
+      "block_number": 5,
+      "char_count": 742
+    },
+    "bbox": [
+      48.04,
+      299.68,
+      548.54,
+      373.58
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_82",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 6,
+    "element_type": "text",
+    "content": "Product Sales Revenue",
+    "metadata": {
+      "block_number": 6,
+      "char_count": 21
+    },
+    "bbox": [
+      48.04,
+      381.79,
+      143.55,
+      392.79
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_83",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 6,
+    "element_type": "text",
+    "content": "Revenue from product sales is recognized upon transfer of control of products to customers in an amount that reflects \nthe consideration we expect to receive in exchange for those products. Certain products are sold with support or an \nextended warranty for the incorporated system, hardware, and/or software. Support and extended warranty revenue are \nrecognized ratably over the service period, or as services are performed. Revenue is recognized net of allowances for \nreturns, customer programs and any taxes collected from customers.",
+    "metadata": {
+      "block_number": 7,
+      "char_count": 538
+    },
+    "bbox": [
+      48.04,
+      398.09,
+      548.57,
+      451.03
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_84",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 6,
+    "element_type": "text",
+    "content": "For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for \nestimated product returns at the time revenue is recognized, based primarily on historical return rates. However, if \nproduct returns for a fiscal period are anticipated to exceed historical return rates, we may determine that additional \nsales return allowances are required to properly reflect our estimated exposure for product returns.",
+    "metadata": {
+      "block_number": 8,
+      "char_count": 460
+    },
+    "bbox": [
+      48.04,
+      459.24,
+      548.44,
+      501.69
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_85",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 6,
+    "element_type": "text",
+    "content": "Our customer programs involve rebates, which are designed to serve as sales incentives to resellers of our products in \nvarious target markets, and marketing development funds, or MDFs, which represent monies paid to our partners that \nare earmarked for market segment development and are designed to support our partners’ activities while also \npromoting NVIDIA products. We account for customer programs as a reduction to revenue and accrue for potential \nrebates and MDFs based on the amount we expect to be claimed by customers.",
+    "metadata": {
+      "block_number": 9,
+      "char_count": 532
+    },
+    "bbox": [
+      48.04,
+      509.91,
+      548.5,
+      562.84
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_86",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 6,
+    "element_type": "text",
+    "content": "License and Development Arrangements",
+    "metadata": {
+      "block_number": 10,
+      "char_count": 36
+    },
+    "bbox": [
+      48.04,
+      571.05,
+      217.67,
+      582.06
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_87",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 6,
+    "element_type": "text",
+    "content": "Our license and development arrangements with customers typically require significant customization of our IP \ncomponents. As a result, we recognize the revenue from the license and the revenue from the development services as a \nsingle performance obligation over the period in which the development services are performed. We measure progress to \ncompletion based on actual cost incurred to date as a percentage of the estimated total cost required to complete each \nproject. If a loss on an arrangement becomes probable during a period, we record a provision for such loss in that period.",
+    "metadata": {
+      "block_number": 11,
+      "char_count": 591
+    },
+    "bbox": [
+      48.04,
+      587.36,
+      548.49,
+      640.29
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_88",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 6,
+    "element_type": "text",
+    "content": "Refer to Note 1 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual Report on Form \n10-K for additional information.",
+    "metadata": {
+      "block_number": 12,
+      "char_count": 153
+    },
+    "bbox": [
+      48.04,
+      648.51,
+      548.36,
+      669.99
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_89",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 6,
+    "element_type": "text",
+    "content": "We recognize federal, state and foreign current tax liabilities or assets based on our estimate of taxes payable or \nrefundable in the current fiscal year by tax jurisdiction. We recognize federal, state and foreign deferred tax assets or \nliabilities, as appropriate, for our estimate of future tax effects attributable to temporary differences and carryforwards;",
+    "metadata": {
+      "block_number": 14,
+      "char_count": 364
+    },
+    "bbox": [
+      48.04,
+      694.51,
+      548.54,
+      726.48
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_90",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "The following table sets forth, for the periods indicated, certain items in our Consolidated Statements of Income \nexpressed as a percentage of revenue.",
+    "metadata": {
+      "block_number": 0,
+      "char_count": 152
+    },
+    "bbox": [
+      48.04,
+      41.69,
+      548.39,
+      63.18
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_91",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "2023\nJanuary 30,",
+    "metadata": {
+      "block_number": 4,
+      "char_count": 16
+    },
+    "bbox": [
+      422.06,
+      87.42,
+      527.03,
+      102.77
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_92",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Revenue\n 100.0 %\n 100.0 %",
+    "metadata": {
+      "block_number": 6,
+      "char_count": 25
+    },
+    "bbox": [
+      50.6,
+      105.86,
+      543.78,
+      114.42
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_93",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Cost of revenue\n 43.1 \n 35.1",
+    "metadata": {
+      "block_number": 7,
+      "char_count": 28
+    },
+    "bbox": [
+      61.52,
+      117.51,
+      537.93,
+      126.07
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_94",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Gross profit\n 56.9 \n 64.9",
+    "metadata": {
+      "block_number": 8,
+      "char_count": 25
+    },
+    "bbox": [
+      50.6,
+      129.15,
+      537.93,
+      137.71
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_95",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Operating expenses",
+    "metadata": {
+      "block_number": 9,
+      "char_count": 18
+    },
+    "bbox": [
+      50.6,
+      140.8,
+      398.12,
+      149.36
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_96",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Research and development\n 27.2 \n 19.6",
+    "metadata": {
+      "block_number": 10,
+      "char_count": 37
+    },
+    "bbox": [
+      61.52,
+      152.22,
+      537.93,
+      161.01
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_97",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Sales, general and administrative\n 9.1 \n 8.0",
+    "metadata": {
+      "block_number": 11,
+      "char_count": 44
+    },
+    "bbox": [
+      61.52,
+      163.87,
+      537.93,
+      172.66
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_98",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Acquisition termination cost\n 5.0 \n —",
+    "metadata": {
+      "block_number": 12,
+      "char_count": 37
+    },
+    "bbox": [
+      61.52,
+      175.52,
+      537.93,
+      184.3
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_99",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Total operating expenses\n 41.3 \n 27.6",
+    "metadata": {
+      "block_number": 13,
+      "char_count": 37
+    },
+    "bbox": [
+      85.54,
+      187.17,
+      537.93,
+      195.95
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_100",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Income from operations\n 15.6 \n 37.3",
+    "metadata": {
+      "block_number": 14,
+      "char_count": 35
+    },
+    "bbox": [
+      50.6,
+      199.04,
+      537.93,
+      207.6
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_101",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Interest income\n 1.0 \n 0.1",
+    "metadata": {
+      "block_number": 15,
+      "char_count": 26
+    },
+    "bbox": [
+      61.52,
+      210.68,
+      537.93,
+      219.24
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_102",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Interest expense\n (1.0) \n (0.9)",
+    "metadata": {
+      "block_number": 16,
+      "char_count": 31
+    },
+    "bbox": [
+      61.52,
+      222.33,
+      539.99,
+      230.89
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_103",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Other, net\n (0.1) \n 0.4",
+    "metadata": {
+      "block_number": 17,
+      "char_count": 23
+    },
+    "bbox": [
+      61.52,
+      233.98,
+      537.93,
+      242.54
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_104",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Other income (expense), net\n (0.1) \n (0.4)",
+    "metadata": {
+      "block_number": 18,
+      "char_count": 42
+    },
+    "bbox": [
+      85.54,
+      245.62,
+      539.99,
+      254.18
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_105",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Income before income tax\n 15.5 \n 36.9",
+    "metadata": {
+      "block_number": 19,
+      "char_count": 37
+    },
+    "bbox": [
+      50.6,
+      257.27,
+      537.93,
+      265.83
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_106",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Income tax expense (benefit)\n (0.7) \n 0.7",
+    "metadata": {
+      "block_number": 20,
+      "char_count": 41
+    },
+    "bbox": [
+      50.6,
+      268.92,
+      537.93,
+      277.48
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_107",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Net income\n 16.2 %\n 36.2 %",
+    "metadata": {
+      "block_number": 21,
+      "char_count": 26
+    },
+    "bbox": [
+      50.6,
+      280.57,
+      543.78,
+      289.13
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_108",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Revenue by Reportable Segments",
+    "metadata": {
+      "block_number": 23,
+      "char_count": 30
+    },
+    "bbox": [
+      48.04,
+      320.4,
+      188.48,
+      331.4
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_109",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "2023\nJanuary 30,",
+    "metadata": {
+      "block_number": 26,
+      "char_count": 16
+    },
+    "bbox": [
+      303.76,
+      349.82,
+      403.65,
+      365.17
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_110",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "($ in millions)",
+    "metadata": {
+      "block_number": 29,
+      "char_count": 15
+    },
+    "bbox": [
+      391.61,
+      371.17,
+      431.74,
+      379.73
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_111",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Compute & Networking\n$ \n15,068 \n$ \n11,046 \n$ \n4,022 \n 36 %",
+    "metadata": {
+      "block_number": 30,
+      "char_count": 58
+    },
+    "bbox": [
+      50.6,
+      382.82,
+      544.5,
+      391.38
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_112",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Graphics\n \n11,906 \n \n15,868 \n \n(3,962) \n (25) %",
+    "metadata": {
+      "block_number": 31,
+      "char_count": 47
+    },
+    "bbox": [
+      50.6,
+      394.46,
+      544.51,
+      403.02
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_113",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Total\n$ \n26,974 \n$ \n26,914 \n$ \n60 \n — %",
+    "metadata": {
+      "block_number": 32,
+      "char_count": 39
+    },
+    "bbox": [
+      50.6,
+      406.11,
+      544.5,
+      414.67
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_114",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Compute & Networking - The year-on-year increase was led by growth from hyperscale customers and also reflects \npurchases made by several CSP partners to support multi-year cloud service agreements for our new NVIDIA AI cloud \nservice offerings and our research and development activities. The increase was also related to the growth in Automotive. \nCMP contributed an insignificant amount in fiscal year 2023 compared to $550 million in fiscal year 2022.",
+    "metadata": {
+      "block_number": 33,
+      "char_count": 455
+    },
+    "bbox": [
+      48.04,
+      426.73,
+      548.57,
+      469.18
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_115",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Graphics - The year-on-year decrease primarily reflects lower sell-in to partners to help reduce channel inventory levels as \nglobal macro-economic conditions and COVID-19 related disruptions in China weighed on gaming demand.",
+    "metadata": {
+      "block_number": 34,
+      "char_count": 226
+    },
+    "bbox": [
+      48.04,
+      477.39,
+      548.44,
+      498.88
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_116",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Concentration of Revenue",
+    "metadata": {
+      "block_number": 35,
+      "char_count": 24
+    },
+    "bbox": [
+      48.04,
+      504.18,
+      157.1,
+      515.19
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_117",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Revenue from sales to customers outside of the United States accounted for 69% and 84% of total revenue for fiscal \nyears 2023 and 2022, respectively. The decline in revenue outside the U.S. was primarily driven by China and Taiwan \nrelated to Data Center and Gaming. Revenue by geographic region is allocated to countries based on the billed location \neven if the revenue may be attributable to end customers in a different location.",
+    "metadata": {
+      "block_number": 36,
+      "char_count": 434
+    },
+    "bbox": [
+      48.04,
+      520.48,
+      548.4,
+      562.94
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_118",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "No customer represented 10% or more of total revenue for fiscal years 2023 and 2022.",
+    "metadata": {
+      "block_number": 37,
+      "char_count": 84
+    },
+    "bbox": [
+      48.04,
+      571.15,
+      403.47,
+      582.16
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_119",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Gross Profit and Gross Margin",
+    "metadata": {
+      "block_number": 38,
+      "char_count": 29
+    },
+    "bbox": [
+      48.04,
+      593.28,
+      174.47,
+      604.29
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_120",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Gross profit consists of total revenue, net of allowances, less cost of revenue. Cost of revenue consists primarily of the \ncost of semiconductors, including wafer fabrication, assembly, testing and packaging, board and device costs, \nmanufacturing support costs, including labor and overhead associated with such purchases, final test yield fallout, \ninventory and warranty provisions, memory and component costs, tariffs, and shipping costs.  Cost of revenue also \nincludes acquisition-related costs, development costs for license and service arrangements, IP-related costs, and stock-\nbased compensation related to personnel associated with manufacturing operations.",
+    "metadata": {
+      "block_number": 39,
+      "char_count": 669
+    },
+    "bbox": [
+      48.04,
+      606.67,
+      548.48,
+      670.09
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_121",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 7,
+    "element_type": "text",
+    "content": "Gross margin was 56.9% and 64.9% for fiscal years 2023 and 2022, respectively. The decrease in fiscal year 2023 was \nprimarily due to $2.17 billion of inventory provisions in fiscal year 2023, which consists of approximately $1.04 billion for \ninventory on hand and approximately $1.13 billion for inventory purchase obligations in excess of our current demand \nprojections.",
+    "metadata": {
+      "block_number": 40,
+      "char_count": 374
+    },
+    "bbox": [
+      48.04,
+      678.3,
+      548.38,
+      720.76
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_122",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "Inventory provisions totaled $2.17 billion and $354 million for fiscal years 2023 and 2022, respectively. Sales of inventory \nthat was previously written-off totaled $137 million and $111 million for fiscal years 2023 and 2022, respectively. As a \nresult, the overall net effect on our gross margin was an unfavorable impact of 7.5% and 0.9% in fiscal years 2023 and \n2022, respectively.",
+    "metadata": {
+      "block_number": 0,
+      "char_count": 387
+    },
+    "bbox": [
+      48.04,
+      41.69,
+      548.24,
+      84.15
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_123",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "Compute & Networking - The gross margin of our Compute & Networking segment decreased during fiscal year 2023 \nwhen compared to fiscal year 2022, primarily due to inventory provisions.",
+    "metadata": {
+      "block_number": 1,
+      "char_count": 184
+    },
+    "bbox": [
+      48.04,
+      89.45,
+      548.21,
+      110.94
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_124",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "Graphics - The gross margin of our Graphics segment decreased during fiscal year 2023 when compared to fiscal year \n2022, primarily due to inventory and related provisions and lower margins of GeForce GPUs.",
+    "metadata": {
+      "block_number": 2,
+      "char_count": 206
+    },
+    "bbox": [
+      48.04,
+      116.24,
+      548.09,
+      137.72
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_125",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "Operating Expenses",
+    "metadata": {
+      "block_number": 3,
+      "char_count": 18
+    },
+    "bbox": [
+      48.04,
+      148.85,
+      131.98,
+      159.85
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_126",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "2023\nJanuary 30,",
+    "metadata": {
+      "block_number": 7,
+      "char_count": 16
+    },
+    "bbox": [
+      303.76,
+      178.27,
+      403.65,
+      193.62
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_127",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "($ in millions)",
+    "metadata": {
+      "block_number": 10,
+      "char_count": 15
+    },
+    "bbox": [
+      50.6,
+      199.62,
+      431.74,
+      208.18
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_128",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "Research and development expenses\n$ \n7,339 \n$ \n5,268 \n$ \n2,071 \n 39 %",
+    "metadata": {
+      "block_number": 11,
+      "char_count": 69
+    },
+    "bbox": [
+      50.6,
+      211.27,
+      544.5,
+      219.83
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_129",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "% of revenue\n 27.2 %\n 19.6 %",
+    "metadata": {
+      "block_number": 12,
+      "char_count": 28
+    },
+    "bbox": [
+      50.6,
+      222.91,
+      491.09,
+      231.47
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_130",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "Sales, general and administrative expenses\n \n2,440 \n \n2,166 \n \n274 \n 13 %",
+    "metadata": {
+      "block_number": 13,
+      "char_count": 73
+    },
+    "bbox": [
+      50.6,
+      234.56,
+      544.5,
+      243.12
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_131",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "% of revenue\n 9.1 %\n 8.0 %",
+    "metadata": {
+      "block_number": 14,
+      "char_count": 26
+    },
+    "bbox": [
+      50.6,
+      246.21,
+      491.09,
+      254.77
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_132",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "Acquisition termination cost\n \n1,353 \n \n— \n \n1,353 \n 100 %",
+    "metadata": {
+      "block_number": 15,
+      "char_count": 58
+    },
+    "bbox": [
+      50.6,
+      257.85,
+      544.5,
+      266.41
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_133",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "% of revenue\n 5.0 %\n — %",
+    "metadata": {
+      "block_number": 16,
+      "char_count": 24
+    },
+    "bbox": [
+      50.6,
+      269.5,
+      417.84,
+      278.06
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_134",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "Total operating expenses\n$ \n11,132 \n$ \n7,434 \n$ \n3,698 \n 50 %",
+    "metadata": {
+      "block_number": 17,
+      "char_count": 61
+    },
+    "bbox": [
+      61.52,
+      281.15,
+      544.5,
+      289.71
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_135",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "% of revenue\n 41.3 %\n 27.6 %",
+    "metadata": {
+      "block_number": 18,
+      "char_count": 28
+    },
+    "bbox": [
+      62.24,
+      292.79,
+      417.84,
+      301.36
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_136",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "The increase in research and development expense for fiscal year 2023 was primarily driven by increased compensation, \nemployee growth, engineering development costs, and data center infrastructure.",
+    "metadata": {
+      "block_number": 19,
+      "char_count": 198
+    },
+    "bbox": [
+      48.04,
+      313.41,
+      548.32,
+      334.9
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_137",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "The increase in sales, general and administrative expense for fiscal year 2023 was primarily driven by increased \ncompensation and employee growth.",
+    "metadata": {
+      "block_number": 20,
+      "char_count": 147
+    },
+    "bbox": [
+      48.04,
+      340.2,
+      548.24,
+      361.69
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_138",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "We recorded an acquisition termination cost related to the Arm transaction of $1.35 billion in fiscal year 2023 reflecting \nthe write-off of the prepayment provided at signing.",
+    "metadata": {
+      "block_number": 21,
+      "char_count": 176
+    },
+    "bbox": [
+      48.04,
+      366.99,
+      548.52,
+      388.48
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_139",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "Other Income (Expense), Net",
+    "metadata": {
+      "block_number": 22,
+      "char_count": 27
+    },
+    "bbox": [
+      48.04,
+      399.6,
+      168.18,
+      410.6
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_140",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "2023\nJanuary 30,",
+    "metadata": {
+      "block_number": 26,
+      "char_count": 16
+    },
+    "bbox": [
+      303.76,
+      431.93,
+      403.65,
+      447.28
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_141",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "($ in millions)",
+    "metadata": {
+      "block_number": 29,
+      "char_count": 15
+    },
+    "bbox": [
+      50.6,
+      453.28,
+      431.74,
+      461.84
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_142",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "Interest income\n$ \n267 \n$ \n29 \n$ \n238 \n 821 %",
+    "metadata": {
+      "block_number": 30,
+      "char_count": 45
+    },
+    "bbox": [
+      50.6,
+      464.93,
+      544.5,
+      473.49
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_143",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "Interest expense\n \n(262) \n \n(236) \n \n(26) \n 11 %",
+    "metadata": {
+      "block_number": 31,
+      "char_count": 48
+    },
+    "bbox": [
+      50.6,
+      476.58,
+      544.5,
+      485.14
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_144",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "Other, net\n \n(48) \n \n107 \n \n(155) \n (145) %",
+    "metadata": {
+      "block_number": 32,
+      "char_count": 43
+    },
+    "bbox": [
+      50.6,
+      488.22,
+      544.51,
+      496.78
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_145",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "Other income (expense), net\n$ \n(43) \n$ \n(100) \n$ \n57 \n (57) %",
+    "metadata": {
+      "block_number": 33,
+      "char_count": 61
+    },
+    "bbox": [
+      61.52,
+      499.87,
+      544.51,
+      508.43
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_146",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "Interest income consists of interest earned on cash, cash equivalents and marketable securities. The increase in interest \nincome was primarily due to higher yields earned on our investments.",
+    "metadata": {
+      "block_number": 34,
+      "char_count": 191
+    },
+    "bbox": [
+      48.04,
+      517.57,
+      548.4,
+      539.06
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_147",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "Interest expense is primarily comprised of coupon interest and debt discount amortization related to our notes. The \nincrease in expense reflects interest on the $5.00 billion debt offering issued in June 2021.",
+    "metadata": {
+      "block_number": 35,
+      "char_count": 210
+    },
+    "bbox": [
+      48.04,
+      547.27,
+      548.48,
+      568.76
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_148",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "Other, net, consists primarily of realized or unrealized gains and losses from investments in non-affiliated entities and the \nimpact of changes in foreign currency rates. Change in other, net, compared to fiscal year 2022 was primarily driven by \nmark-to-market losses from publicly traded equity investments and changes in value from our non-affiliated private \ninvestments. Refer to Note 8 of the Notes to the Consolidated Financial Statements in Part IV, Item 15 of this Annual \nReport on Form 10-K for additional information regarding our investments in non-affiliated entities.",
+    "metadata": {
+      "block_number": 36,
+      "char_count": 583
+    },
+    "bbox": [
+      48.04,
+      576.97,
+      548.54,
+      629.91
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_149",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "We recognized income tax benefit of $187 million for fiscal year 2023 and income tax expense of $189 million for fiscal \nyear 2022. Income tax as a percentage of income before income tax was a benefit of 4.5% for fiscal year 2023 and an \nexpense of 1.9% for fiscal year 2022.",
+    "metadata": {
+      "block_number": 38,
+      "char_count": 275
+    },
+    "bbox": [
+      48.04,
+      654.43,
+      548.29,
+      686.4
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_150",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 8,
+    "element_type": "text",
+    "content": "Beginning in fiscal year 2023, the 2017 Tax Cuts and Jobs Act, or TCJA, requires taxpayers to capitalize research and \ndevelopment expenditures and to amortize domestic expenditures over five years and foreign expenditures over fifteen \nyears.",
+    "metadata": {
+      "block_number": 39,
+      "char_count": 243
+    },
+    "bbox": [
+      48.04,
+      694.61,
+      548.54,
+      726.58
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_151",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 9,
+    "element_type": "text",
+    "content": "NVIDIA CORPORATION AND SUBSIDIARIES\nNOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+    "metadata": {
+      "block_number": 19,
+      "char_count": 82
+    },
+    "bbox": [
+      176.09,
+      22.62,
+      418.11,
+      44.11
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_152",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 9,
+    "element_type": "text",
+    "content": "Note 1 - Organization and Summary of Significant Accounting Policies",
+    "metadata": {
+      "block_number": 0,
+      "char_count": 68
+    },
+    "bbox": [
+      48.04,
+      80.29,
+      373.25,
+      92.52
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_153",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 9,
+    "element_type": "text",
+    "content": "Headquartered in Santa Clara, California, NVIDIA was incorporated in California in April 1993 and reincorporated in \nDelaware in April 1998.",
+    "metadata": {
+      "block_number": 2,
+      "char_count": 140
+    },
+    "bbox": [
+      48.04,
+      117.25,
+      548.46,
+      138.74
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_154",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 9,
+    "element_type": "text",
+    "content": "All references to “NVIDIA,” “we,” “us,” “our” or the “Company” mean NVIDIA Corporation and its subsidiaries.",
+    "metadata": {
+      "block_number": 3,
+      "char_count": 108
+    },
+    "bbox": [
+      48.04,
+      146.95,
+      483.66,
+      157.96
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_155",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 9,
+    "element_type": "text",
+    "content": "We operate on a 52- or 53-week year, ending on the last Sunday in January. Fiscal years 2023 and 2022 were both 52-\nweek years. Fiscal year 2021 was a 53-week year.",
+    "metadata": {
+      "block_number": 5,
+      "char_count": 164
+    },
+    "bbox": [
+      48.04,
+      182.48,
+      546.22,
+      203.97
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_156",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 9,
+    "element_type": "text",
+    "content": "Reclassifications",
+    "metadata": {
+      "block_number": 6,
+      "char_count": 17
+    },
+    "bbox": [
+      48.04,
+      215.09,
+      118.82,
+      226.1
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_157",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 9,
+    "element_type": "text",
+    "content": "Certain prior fiscal year balances have been reclassified to conform to the current fiscal year presentation.",
+    "metadata": {
+      "block_number": 7,
+      "char_count": 109
+    },
+    "bbox": [
+      48.04,
+      228.48,
+      482.72,
+      239.49
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_158",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 9,
+    "element_type": "text",
+    "content": "Prior period intangible asset gross carrying amount and accumulated amortization in Note 7 have been adjusted to write \noff immaterial fully amortized intangible assets as of January 30, 2022.",
+    "metadata": {
+      "block_number": 8,
+      "char_count": 192
+    },
+    "bbox": [
+      48.04,
+      247.7,
+      548.45,
+      269.19
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_159",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 9,
+    "element_type": "text",
+    "content": "Principles of Consolidation",
+    "metadata": {
+      "block_number": 9,
+      "char_count": 27
+    },
+    "bbox": [
+      48.04,
+      280.31,
+      160.03,
+      291.32
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_160",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 9,
+    "element_type": "text",
+    "content": "Our consolidated financial statements include the accounts of NVIDIA Corporation and our wholly-owned subsidiaries. All \nintercompany balances and transactions have been eliminated in consolidation.",
+    "metadata": {
+      "block_number": 10,
+      "char_count": 198
+    },
+    "bbox": [
+      48.04,
+      293.71,
+      548.44,
+      315.2
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_161",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 9,
+    "element_type": "text",
+    "content": "Use of Estimates",
+    "metadata": {
+      "block_number": 11,
+      "char_count": 16
+    },
+    "bbox": [
+      48.04,
+      326.32,
+      119.21,
+      337.33
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_162",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 9,
+    "element_type": "text",
+    "content": "The preparation of financial statements in conformity with U.S. GAAP requires management to make estimates and \nassumptions that affect the reported amounts of assets and liabilities and disclosures of contingent assets and liabilities \nat the date of the financial statements and the reported amounts of revenue and expenses during the reporting period. \nActual results could differ materially from our estimates. On an on-going basis, we evaluate our estimates, including those \nrelated to revenue recognition, cash equivalents and marketable securities, accounts receivable, inventories, income \ntaxes, goodwill, stock-based compensation, litigation, investigation and settlement costs, restructuring and other \ncharges, and other contingencies. The inputs into our judgments and estimates consider the economic implications of \nCOVID-19. These estimates are based on historical facts and various other assumptions that we believe are reasonable.",
+    "metadata": {
+      "block_number": 12,
+      "char_count": 949
+    },
+    "bbox": [
+      48.04,
+      339.71,
+      548.59,
+      424.1
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_163",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 9,
+    "element_type": "text",
+    "content": "In February 2023, we completed an assessment of the useful lives of our property, plant, and equipment. Based on \nadvances in technology and usage rate, we increased the estimated useful life of a majority of the server, storage, and \nnetwork equipment from three to a range of four to five years, and assembly and test equipment from five to seven \nyears. This change in accounting estimate became effective at the beginning of fiscal year 2024. Based on the carrying \namounts of a majority of our server, storage, network, and assembly and test equipment, net in use as of the end of fiscal \nyear 2023, it is estimated this change will increase our fiscal year 2024 operating income by $133 million as a result of the \nreduction in depreciation expense.",
+    "metadata": {
+      "block_number": 13,
+      "char_count": 755
+    },
+    "bbox": [
+      48.04,
+      435.22,
+      548.53,
+      509.12
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_164",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 9,
+    "element_type": "text",
+    "content": "Revenue Recognition",
+    "metadata": {
+      "block_number": 14,
+      "char_count": 19
+    },
+    "bbox": [
+      48.04,
+      520.24,
+      135.75,
+      531.25
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_165",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 9,
+    "element_type": "text",
+    "content": "We derive our revenue from product sales, including hardware and systems, license and development arrangements, \nsoftware licensing, and cloud services. We determine revenue recognition through the following steps: (1) identification \nof the contract with a customer; (2) identification of the performance obligations in the contract; (3) determination of the \ntransaction price; (4) allocation of the transaction price to the performance obligations in the contract (where revenue is \nallocated on a relative standalone selling price basis by maximizing the use of observable inputs to determine the \nstandalone selling price for each performance obligation); and (5) recognition of revenue when, or as, we satisfy a \nperformance obligation.",
+    "metadata": {
+      "block_number": 15,
+      "char_count": 742
+    },
+    "bbox": [
+      48.04,
+      533.64,
+      548.54,
+      607.54
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_166",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 9,
+    "element_type": "text",
+    "content": "Product Sales Revenue",
+    "metadata": {
+      "block_number": 16,
+      "char_count": 21
+    },
+    "bbox": [
+      48.04,
+      615.75,
+      143.55,
+      626.75
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_167",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 9,
+    "element_type": "text",
+    "content": "Revenue from product sales is recognized upon transfer of control of products to customers in an amount that reflects \nthe consideration we expect to receive in exchange for those products. Certain products are sold with support or an \nextended warranty for the incorporated system, hardware, and/or software. Support and extended warranty revenue are \nrecognized ratably over the service period, or as services are performed. Revenue is recognized net of allowances for \nreturns, customer programs and any taxes collected from customers.",
+    "metadata": {
+      "block_number": 17,
+      "char_count": 538
+    },
+    "bbox": [
+      48.04,
+      632.05,
+      548.57,
+      684.99
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_168",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 9,
+    "element_type": "text",
+    "content": "For products sold with a right of return, we record a reduction to revenue by establishing a sales return allowance for \nestimated product returns at the time revenue is recognized, based primarily on historical return rates. However, if",
+    "metadata": {
+      "block_number": 18,
+      "char_count": 237
+    },
+    "bbox": [
+      48.04,
+      693.2,
+      548.44,
+      714.69
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_169",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "NVIDIA CORPORATION AND SUBSIDIARIES\nNOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+    "metadata": {
+      "block_number": 55,
+      "char_count": 82
+    },
+    "bbox": [
+      176.09,
+      22.62,
+      418.11,
+      44.11
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_170",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "2023\nJanuary 30,",
+    "metadata": {
+      "block_number": 2,
+      "char_count": 16
+    },
+    "bbox": [
+      349.98,
+      86.11,
+      452.78,
+      101.46
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_171",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "2022\nJanuary 31,",
+    "metadata": {
+      "block_number": 3,
+      "char_count": 16
+    },
+    "bbox": [
+      425.69,
+      86.11,
+      528.49,
+      101.46
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_172",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Reconciling items included in \"All Other\" category:",
+    "metadata": {
+      "block_number": 6,
+      "char_count": 51
+    },
+    "bbox": [
+      50.96,
+      119.11,
+      214.17,
+      127.67
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_173",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Stock-based compensation expense\n$ \n(2,710) $ \n(2,004) $ \n(1,397)",
+    "metadata": {
+      "block_number": 7,
+      "char_count": 65
+    },
+    "bbox": [
+      50.96,
+      130.76,
+      546.61,
+      139.32
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_174",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Acquisition termination cost\n \n(1,353)  \n— \n \n—",
+    "metadata": {
+      "block_number": 8,
+      "char_count": 47
+    },
+    "bbox": [
+      50.96,
+      142.4,
+      544.55,
+      150.96
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_175",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Acquisition-related and other costs\n \n(674)  \n(636)  \n(836)",
+    "metadata": {
+      "block_number": 9,
+      "char_count": 59
+    },
+    "bbox": [
+      50.96,
+      154.05,
+      546.61,
+      162.61
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_176",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Unallocated cost of revenue and operating expenses\n \n(595)  \n(399)  \n(357)",
+    "metadata": {
+      "block_number": 10,
+      "char_count": 74
+    },
+    "bbox": [
+      50.96,
+      165.7,
+      546.61,
+      174.26
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_177",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Restructuring costs and other\n \n(54)  \n— \n \n—",
+    "metadata": {
+      "block_number": 11,
+      "char_count": 45
+    },
+    "bbox": [
+      50.96,
+      177.34,
+      544.55,
+      185.9
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_178",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "IP-related and legal settlement costs\n \n(23)  \n(10)  \n(38)",
+    "metadata": {
+      "block_number": 12,
+      "char_count": 58
+    },
+    "bbox": [
+      50.96,
+      188.99,
+      546.61,
+      197.55
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_179",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Contributions\n \n(2)  \n— \n \n—",
+    "metadata": {
+      "block_number": 13,
+      "char_count": 28
+    },
+    "bbox": [
+      50.96,
+      200.64,
+      544.55,
+      209.2
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_180",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Total\n$ \n(5,411) $ \n(3,049) $ \n(2,628)",
+    "metadata": {
+      "block_number": 14,
+      "char_count": 38
+    },
+    "bbox": [
+      50.96,
+      212.28,
+      546.61,
+      220.85
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_181",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Revenue by geographic region is allocated to individual countries based on the billing location of the customer. End \ncustomer location may be different than our customer’s billing location. The following table summarizes information \npertaining to our revenue from customers based on the invoicing address by geographic regions:",
+    "metadata": {
+      "block_number": 15,
+      "char_count": 329
+    },
+    "bbox": [
+      48.04,
+      235.81,
+      548.42,
+      267.78
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_182",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "2023\nJanuary 30,",
+    "metadata": {
+      "block_number": 19,
+      "char_count": 16
+    },
+    "bbox": [
+      348.9,
+      289.11,
+      451.69,
+      304.46
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_183",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "2022\nJanuary 31,",
+    "metadata": {
+      "block_number": 20,
+      "char_count": 16
+    },
+    "bbox": [
+      424.6,
+      289.11,
+      527.4,
+      304.46
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_184",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Revenue:\n(In millions)",
+    "metadata": {
+      "block_number": 22,
+      "char_count": 22
+    },
+    "bbox": [
+      50.6,
+      310.46,
+      450.14,
+      319.02
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_185",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "United States\n$ \n8,292 \n$ \n4,349 \n$ \n3,214",
+    "metadata": {
+      "block_number": 23,
+      "char_count": 42
+    },
+    "bbox": [
+      61.52,
+      322.11,
+      543.46,
+      330.67
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_186",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Taiwan\n \n6,986 \n \n8,544 \n \n4,531",
+    "metadata": {
+      "block_number": 24,
+      "char_count": 32
+    },
+    "bbox": [
+      61.52,
+      333.75,
+      543.46,
+      342.31
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_187",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "China (including Hong Kong)\n \n5,785 \n \n7,111 \n \n3,886",
+    "metadata": {
+      "block_number": 25,
+      "char_count": 53
+    },
+    "bbox": [
+      61.52,
+      345.4,
+      543.46,
+      353.96
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_188",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Other countries\n \n5,911 \n \n6,910 \n \n5,044",
+    "metadata": {
+      "block_number": 26,
+      "char_count": 41
+    },
+    "bbox": [
+      61.52,
+      357.05,
+      543.46,
+      365.61
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_189",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Total revenue\n$ \n26,974 \n$ \n26,914 \n$ \n16,675",
+    "metadata": {
+      "block_number": 27,
+      "char_count": 45
+    },
+    "bbox": [
+      50.6,
+      368.69,
+      543.46,
+      377.26
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_190",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "No customer represented 10% or more of total revenue for fiscal years 2023, 2022 and 2021.",
+    "metadata": {
+      "block_number": 28,
+      "char_count": 90
+    },
+    "bbox": [
+      48.04,
+      392.22,
+      428.37,
+      403.23
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_191",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Two customers accounted for 14% and 11% of our accounts receivable balance as of January 29, 2023. Two customers \neach accounted for 11% of our accounts receivable balance as of January 30, 2022.",
+    "metadata": {
+      "block_number": 29,
+      "char_count": 195
+    },
+    "bbox": [
+      48.04,
+      408.53,
+      548.21,
+      430.02
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_192",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "The following table summarizes information pertaining to our revenue by each of the specialized markets we serve:",
+    "metadata": {
+      "block_number": 30,
+      "char_count": 113
+    },
+    "bbox": [
+      48.04,
+      441.14,
+      516.96,
+      452.15
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_193",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "2023\nJanuary 30,",
+    "metadata": {
+      "block_number": 34,
+      "char_count": 16
+    },
+    "bbox": [
+      350.35,
+      479.29,
+      452.42,
+      494.65
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_194",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "2022\nJanuary 31,",
+    "metadata": {
+      "block_number": 35,
+      "char_count": 16
+    },
+    "bbox": [
+      425.33,
+      479.29,
+      527.4,
+      494.65
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_195",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Revenue:\n(In millions)",
+    "metadata": {
+      "block_number": 37,
+      "char_count": 22
+    },
+    "bbox": [
+      50.6,
+      500.65,
+      450.86,
+      509.21
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_196",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Data Center\n$ \n15,005 \n$ \n10,613 \n$ \n6,696",
+    "metadata": {
+      "block_number": 38,
+      "char_count": 42
+    },
+    "bbox": [
+      61.52,
+      512.29,
+      543.46,
+      520.85
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_197",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Gaming\n \n9,067 \n \n12,462 \n \n7,759",
+    "metadata": {
+      "block_number": 39,
+      "char_count": 33
+    },
+    "bbox": [
+      61.52,
+      523.94,
+      543.46,
+      532.5
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_198",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Professional Visualization\n \n1,544 \n \n2,111 \n \n1,053",
+    "metadata": {
+      "block_number": 40,
+      "char_count": 52
+    },
+    "bbox": [
+      61.52,
+      535.59,
+      543.46,
+      544.15
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_199",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Automotive\n \n903 \n \n566 \n \n536",
+    "metadata": {
+      "block_number": 41,
+      "char_count": 30
+    },
+    "bbox": [
+      61.52,
+      547.23,
+      543.46,
+      555.8
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_200",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "OEM & Other\n \n455 \n \n1,162 \n \n631",
+    "metadata": {
+      "block_number": 42,
+      "char_count": 33
+    },
+    "bbox": [
+      61.52,
+      558.88,
+      543.46,
+      567.44
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_201",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Total revenue\n$ \n26,974 \n$ \n26,914 \n$ \n16,675",
+    "metadata": {
+      "block_number": 43,
+      "char_count": 45
+    },
+    "bbox": [
+      50.6,
+      570.53,
+      543.46,
+      579.09
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_202",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "The following table presents summarized information for long-lived assets by country. Long-lived assets consist of \nproperty and equipment and exclude other assets, operating lease assets, goodwill, and intangible assets.",
+    "metadata": {
+      "block_number": 44,
+      "char_count": 221
+    },
+    "bbox": [
+      48.04,
+      591.14,
+      548.4,
+      612.63
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_203",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "2023\nJanuary 30,",
+    "metadata": {
+      "block_number": 47,
+      "char_count": 16
+    },
+    "bbox": [
+      438.43,
+      616.49,
+      532.49,
+      631.84
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_204",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Long-lived assets:\n(In millions)",
+    "metadata": {
+      "block_number": 49,
+      "char_count": 32
+    },
+    "bbox": [
+      50.6,
+      637.84,
+      497.45,
+      646.4
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_205",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "United States\n$ \n2,587 \n$ \n2,023",
+    "metadata": {
+      "block_number": 50,
+      "char_count": 32
+    },
+    "bbox": [
+      61.52,
+      649.49,
+      544.2,
+      658.05
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_206",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Taiwan\n \n702 \n \n379",
+    "metadata": {
+      "block_number": 51,
+      "char_count": 19
+    },
+    "bbox": [
+      61.52,
+      661.13,
+      544.19,
+      669.69
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_207",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Israel\n \n283 \n \n185",
+    "metadata": {
+      "block_number": 52,
+      "char_count": 19
+    },
+    "bbox": [
+      61.52,
+      672.78,
+      544.19,
+      681.34
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_208",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Other countries\n \n235 \n \n191",
+    "metadata": {
+      "block_number": 53,
+      "char_count": 28
+    },
+    "bbox": [
+      61.52,
+      684.43,
+      544.19,
+      692.99
+    ]
+  },
+  {
+    "element_id": "nvidia_financial_highlights_text_209",
+    "doc_name": "nvidia_financial_highlights",
+    "page_number": 10,
+    "element_type": "text",
+    "content": "Total long-lived assets\n$ \n3,807 \n$ \n2,778",
+    "metadata": {
+      "block_number": 54,
+      "char_count": 42
+    },
+    "bbox": [
+      50.6,
+      696.07,
+      544.2,
+      704.63
+    ]
+  }
+]

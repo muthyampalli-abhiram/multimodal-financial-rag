@@ -1,0 +1,1226 @@
+[
+  {
+    "element_id": "nvidia_geo_margin_text_1",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "Networks, Inc., Lumentum Holdings, and Marvell Technology Group, as well as internal teams of system vendors \nand large cloud services companies.",
+    "metadata": {
+      "block_number": 0,
+      "char_count": 145
+    },
+    "bbox": [
+      82.99,
+      41.69,
+      548.44,
+      63.18
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_2",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "Patents and Proprietary Rights",
+    "metadata": {
+      "block_number": 1,
+      "char_count": 30
+    },
+    "bbox": [
+      48.04,
+      74.31,
+      178.15,
+      85.31
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_3",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "We rely primarily on a combination of patents, trademarks, trade secrets, employee and third-party nondisclosure \nagreements, and licensing arrangements to protect our IP in the United States and internationally. Our currently issued \npatents have expiration dates from March 2023 to June 2045. We have numerous patents issued, allowed, and pending in \nthe United States and in foreign jurisdictions. Our patents and pending patent applications primarily relate to our \nproducts and the technology used in connection with our products. We also rely on international treaties, organizations, \nand foreign laws to protect our IP. The laws of certain foreign countries in which our products are or may be \nmanufactured or sold, including various countries in Asia, may not protect our products or IP rights to the same extent as \nthe laws of the United States. This decreased protection makes the possibility of piracy of our technology and products \nmore likely. We continuously assess whether and where to seek formal protection for particular innovations and \ntechnologies based on such factors as:",
+    "metadata": {
+      "block_number": 2,
+      "char_count": 1098
+    },
+    "bbox": [
+      48.04,
+      87.7,
+      548.55,
+      193.05
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_4",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "•\nthe location in which our products are manufactured;",
+    "metadata": {
+      "block_number": 3,
+      "char_count": 54
+    },
+    "bbox": [
+      65.51,
+      201.26,
+      300.42,
+      212.27
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_5",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "•\nour strategic technology or product directions in different countries;",
+    "metadata": {
+      "block_number": 4,
+      "char_count": 72
+    },
+    "bbox": [
+      65.51,
+      220.48,
+      363.51,
+      231.48
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_6",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "•\nthe degree to which IP laws exist and are meaningfully enforced in different jurisdictions; and",
+    "metadata": {
+      "block_number": 5,
+      "char_count": 97
+    },
+    "bbox": [
+      65.51,
+      239.69,
+      464.22,
+      250.7
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_7",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "•\nthe commercial significance of our operations and our competitors' operations in particular countries and \nregions.",
+    "metadata": {
+      "block_number": 6,
+      "char_count": 117
+    },
+    "bbox": [
+      65.51,
+      258.91,
+      548.45,
+      280.4
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_8",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "We have licensed technology from third parties and expect to continue to enter into such license agreements.",
+    "metadata": {
+      "block_number": 7,
+      "char_count": 108
+    },
+    "bbox": [
+      48.04,
+      288.61,
+      497.47,
+      299.62
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_9",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "Government Regulations",
+    "metadata": {
+      "block_number": 8,
+      "char_count": 22
+    },
+    "bbox": [
+      48.04,
+      310.74,
+      151.75,
+      321.75
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_10",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "Our worldwide business activities are subject to various laws, rules, and regulations of the United States as well as of \nforeign governments.",
+    "metadata": {
+      "block_number": 9,
+      "char_count": 142
+    },
+    "bbox": [
+      48.04,
+      324.14,
+      548.54,
+      345.62
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_11",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "During the third quarter of fiscal year 2023, the U.S. government announced new license requirements that impact \ncertain exports to China (including Hong Kong and Macau) and Russia of some of our data center products. The impact of \nthe new license requirements is difficult to quantify, and it may be challenging for us to manage our operations and \nforecast our operating results due to these requirements. Refer to “Item 1A. Risk Factors- Risks Related to Regulatory, \nLegal, Our Stock and Other Matters” for a discussion of this potential impact.",
+    "metadata": {
+      "block_number": 10,
+      "char_count": 551
+    },
+    "bbox": [
+      48.04,
+      353.84,
+      548.42,
+      406.77
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_12",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "Additionally, our acquisitions may be subject to government regulatory reviews, and the cost to comply with such \nregulations or costs incurred where regulatory challenges prevent the completion of an acquisition could have a material \nimpact on our business. In February 2022, we announced the termination of the Share Purchase Agreement by which we \nwould have acquired Arm due to significant regulatory challenges preventing the completion of the transaction. We \nrecorded an acquisition termination cost of $1.35 billion in fiscal year 2023 reflecting the write-off of the prepayment \nprovided at signing.",
+    "metadata": {
+      "block_number": 11,
+      "char_count": 609
+    },
+    "bbox": [
+      48.04,
+      414.98,
+      548.52,
+      478.4
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_13",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "Compliance with laws, rules, and regulations has not otherwise had a material effect upon our capital expenditures, \nresults of operations, or competitive position and we do not currently anticipate material capital expenditures for \nenvironmental control facilities. Compliance with existing or future governmental regulations, including, but not limited \nto, those pertaining to IP ownership and infringement, taxes, import and export requirements and tariffs, anti-corruption, \nbusiness acquisitions, foreign exchange controls and cash repatriation restrictions, data privacy requirements, \ncompetition and antitrust, advertising, employment, product regulations, cybersecurity, environmental, health and safety \nrequirements, the responsible use of AI, climate change, cryptocurrency, and consumer laws, could increase our costs, \nimpact our competitive position, and otherwise may have a material adverse impact on our business, financial condition \nand results of operations in subsequent periods. Refer to “Item 1A. Risk Factors” for a discussion of these potential \nimpacts.",
+    "metadata": {
+      "block_number": 12,
+      "char_count": 1082
+    },
+    "bbox": [
+      48.04,
+      486.61,
+      548.56,
+      591.96
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_14",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "Environmental, Social and Corporate Governance",
+    "metadata": {
+      "block_number": 13,
+      "char_count": 46
+    },
+    "bbox": [
+      48.04,
+      603.08,
+      252.35,
+      614.09
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_15",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "NVIDIA invents computing technologies that improve lives and address global challenges. Our goal is to integrate sound \nenvironmental, social and corporate governance, or ESG, principles and practices into every aspect of the Company. The \nNominating and Corporate Governance Committee of our Board of Directors is responsible for reviewing and discussing \nwith management our practices related to ESG. We assess our programs annually in consideration of stakeholder \nexpectations, market trends, and business risks and opportunities. These issues are important for our continued business \nsuccess and reflect the topics of highest concern to NVIDIA and our stakeholders.",
+    "metadata": {
+      "block_number": 14,
+      "char_count": 671
+    },
+    "bbox": [
+      48.04,
+      616.48,
+      548.52,
+      679.89
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_16",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "The following section and the Human Capital Management Section below provide an overview of our principles and \npractices. More information can be found on the Corporate Responsibility section of our website and in our annual \nCorporate Responsibility Report, or CR Report. Information contained on our website or in our annual CR Report is not",
+    "metadata": {
+      "block_number": 15,
+      "char_count": 344
+    },
+    "bbox": [
+      48.04,
+      688.11,
+      548.46,
+      720.08
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_17",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "significant challenges and risks and could impair our ability to grow our business, develop new products or sell our \nproducts and ultimately could have a negative impact on our financial results. If we pursue a particular transaction, we \nmay limit our ability to enter into other transactions that could help us achieve our other strategic objectives. If we are \nunable to timely complete acquisitions, including due to delays and challenges in obtaining regulatory approvals, we may \nbe unable to pursue other transactions, we may not be able to retain critical talent from the target company, technology \nmay evolve and make the acquisition less attractive, and other changes can take place which could reduce the anticipated \nbenefits of the transaction and negatively impact our business. For example, in February 2022, NVIDIA and SoftBank \nannounced the termination of the Share Purchase Agreement whereby NVIDIA would have acquired Arm from SoftBank \ndue to significant regulatory challenges preventing the completion of the transaction. We recorded in operating expenses \na $1.35 billion charge in fiscal year 2023 reflecting the write-off of the prepayment provided at signing. Regulators could \nalso impose conditions that reduce the ultimate value of our acquisitions. In addition, to the extent that our perceived \nability to consummate acquisitions has been harmed, future acquisitions may be more difficult, complex or expensive. \nFurther, if we hold investments in publicly traded companies, they could create volatility in our results and may generate \nlosses up to the value of the investment.",
+    "metadata": {
+      "block_number": 0,
+      "char_count": 1611
+    },
+    "bbox": [
+      48.04,
+      41.69,
+      548.59,
+      188.97
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_18",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "Additional risks related to acquisitions or strategic investments include, but are not limited to:",
+    "metadata": {
+      "block_number": 1,
+      "char_count": 98
+    },
+    "bbox": [
+      48.04,
+      197.18,
+      431.9,
+      208.19
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_19",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\ndifficulty in integrating the technology, systems, products, policies, processes, or operations and integrating and \nretaining the employees, including key personnel, of the acquired business;",
+    "metadata": {
+      "block_number": 2,
+      "char_count": 194
+    },
+    "bbox": [
+      65.51,
+      216.4,
+      548.47,
+      237.89
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_20",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\ndiversion of capital and other resources, including management’s attention;",
+    "metadata": {
+      "block_number": 3,
+      "char_count": 77
+    },
+    "bbox": [
+      65.51,
+      246.1,
+      391.62,
+      257.11
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_21",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nassumption of liabilities and incurring amortization expenses, impairment charges to goodwill or write-downs of \nacquired assets;",
+    "metadata": {
+      "block_number": 4,
+      "char_count": 131
+    },
+    "bbox": [
+      65.51,
+      265.32,
+      548.47,
+      286.81
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_22",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nintegrating accounting, forecasting and controls, procedures and reporting cycles;",
+    "metadata": {
+      "block_number": 5,
+      "char_count": 84
+    },
+    "bbox": [
+      65.51,
+      295.02,
+      419.3,
+      306.02
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_23",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\ncoordinating and integrating operations, particularly in countries in which we do not currently operate;",
+    "metadata": {
+      "block_number": 6,
+      "char_count": 106
+    },
+    "bbox": [
+      65.51,
+      314.24,
+      500.65,
+      325.24
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_24",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\ndifficulty in realizing a satisfactory return and uncertainties to realize the benefits of an acquisition or strategic \ninvestment, if at all;",
+    "metadata": {
+      "block_number": 7,
+      "char_count": 144
+    },
+    "bbox": [
+      65.51,
+      333.45,
+      548.45,
+      354.94
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_25",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\ndifficulty or inability in obtaining governmental, regulatory approval or restrictions or other consents and \napprovals or financing;",
+    "metadata": {
+      "block_number": 8,
+      "char_count": 135
+    },
+    "bbox": [
+      65.51,
+      363.15,
+      548.48,
+      384.64
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_26",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nstock price impact, fines, fees or reputation harm if we are unable to obtain regulatory approval for an acquisition \nor are otherwise unable to close an acquisition;",
+    "metadata": {
+      "block_number": 9,
+      "char_count": 168
+    },
+    "bbox": [
+      65.51,
+      392.85,
+      548.58,
+      414.34
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_27",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nlegal proceedings initiated as a result of an acquisition or investment;",
+    "metadata": {
+      "block_number": 10,
+      "char_count": 74
+    },
+    "bbox": [
+      65.51,
+      422.55,
+      366.32,
+      433.56
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_28",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\npotential issuances of debt to finance our acquisitions, resulting in increased debt, increased interest expense, \nand compliance with debt covenants or other restrictions;",
+    "metadata": {
+      "block_number": 11,
+      "char_count": 174
+    },
+    "bbox": [
+      65.51,
+      441.77,
+      548.45,
+      463.26
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_29",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nthe potential for our acquisitions to result in dilutive issuances of our equity securities;",
+    "metadata": {
+      "block_number": 12,
+      "char_count": 94
+    },
+    "bbox": [
+      65.51,
+      471.47,
+      436.32,
+      482.48
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_30",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nthe potential variability of the amount and form of any performance-based consideration;",
+    "metadata": {
+      "block_number": 13,
+      "char_count": 90
+    },
+    "bbox": [
+      65.51,
+      490.69,
+      448.78,
+      501.69
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_31",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nnegative changes in general economic conditions in the regions or the industries in which we or our target \noperate;",
+    "metadata": {
+      "block_number": 14,
+      "char_count": 118
+    },
+    "bbox": [
+      65.51,
+      509.91,
+      548.45,
+      531.39
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_32",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nexposure to additional cybersecurity risks and vulnerabilities;",
+    "metadata": {
+      "block_number": 15,
+      "char_count": 65
+    },
+    "bbox": [
+      65.51,
+      539.61,
+      331.47,
+      550.61
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_33",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\npotential failure of our due diligence processes to identify significant issues with the assets or company in which \nwe are investing or are acquiring; and",
+    "metadata": {
+      "block_number": 16,
+      "char_count": 157
+    },
+    "bbox": [
+      65.51,
+      558.82,
+      548.38,
+      580.31
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_34",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nimpairment of relationships with, or loss of our or our target’s employees, vendors and customers.",
+    "metadata": {
+      "block_number": 17,
+      "char_count": 100
+    },
+    "bbox": [
+      65.51,
+      588.52,
+      483.31,
+      599.53
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_35",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "For example, when integrating acquisition target systems into our own, we have experienced and may continue to \nexperience challenges including lengthy and costly systems integration, delays in purchasing and shipping products, \ndifficulties with system integration via electronic data interchange and other processes with our key suppliers and \ncustomers, and training and change management needs of integration personnel. These challenges have impacted our \nresults of operations and may continue to do so in the future.",
+    "metadata": {
+      "block_number": 18,
+      "char_count": 522
+    },
+    "bbox": [
+      48.04,
+      607.74,
+      548.54,
+      660.68
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_36",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "We receive a significant amount of our revenue from a limited number of customers and our revenue could be \nadversely affected if we lose or are prevented from selling to any of these customers.",
+    "metadata": {
+      "block_number": 19,
+      "char_count": 194
+    },
+    "bbox": [
+      48.04,
+      668.89,
+      548.38,
+      690.38
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_37",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "We receive a significant amount of our revenue from a limited number of customers within our distribution and partner \nnetwork. With several of these distributors and partners, we are selling multiple target market platforms through their \nchannels. Our operating results depend on sales within our partner network, as well as the ability of these partners to sell",
+    "metadata": {
+      "block_number": 20,
+      "char_count": 364
+    },
+    "bbox": [
+      48.04,
+      695.68,
+      548.45,
+      727.65
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_38",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "disclosures, including those associated with climate change and human rights. Stakeholders may not be satisfied with our \nESG practices or the speed of their adoption. Additionally, our ESG practices, oversight of ESG practices, or disclosure \ncontrols may not meet evolving shareholder, regulator, or other industry stakeholder expectations, or we may fail to meet \nsustainability disclosure or ESG reporting standards. We could also incur additional costs and require additional resources \nto monitor, report, and comply with various ESG practices, choose not to conduct business with potential customers, or \ndiscontinue or not expand business with existing customers due to our policies. These factors may negatively harm our \nbrand, reputation and business activities or expose us to liability.",
+    "metadata": {
+      "block_number": 0,
+      "char_count": 799
+    },
+    "bbox": [
+      48.04,
+      41.69,
+      548.59,
+      115.59
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_39",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "Issues relating to the responsible use of our technologies, including AI in our offerings, may result in reputational and \nfinancial harm and liability.",
+    "metadata": {
+      "block_number": 1,
+      "char_count": 152
+    },
+    "bbox": [
+      48.04,
+      123.81,
+      548.36,
+      145.29
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_40",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "Concerns relating to the responsible use of new and evolving technologies, such as AI, in our products and services may \nresult in reputational and financial harm and liability, and may cause us to incur costs to resolve such issues. We are \nincreasingly building AI capabilities into many of our products and services. AI poses emerging ethical issues and presents \nrisks and challenges that could affect its adoption, and therefore our business. If we enable or offer solutions that draw \ncontroversy due to their perceived or actual impact on society, such as AI solutions that have unintended consequences \nor are controversial because of their impact on human rights, privacy, employment, or other social, economic, or political \nissues, or if we are unable to develop effective internal policies and frameworks relating to the responsible development \nand use of AI models and systems offered through our sales channels, we may experience brand or reputational harm, \ncompetitive harm or legal liability. Compliance with government regulation in the area of AI ethics may also increase the \ncost of related research and development, and changes in AI-related regulation could disproportionately impact and \ndisadvantage us and require us to change our business practices, which may negatively impact our financial results. Our \nfailure to address concerns relating to the responsible use of AI by us or others could undermine public confidence in AI \nand slow adoption of AI in our products and services or cause reputational harm.",
+    "metadata": {
+      "block_number": 2,
+      "char_count": 1537
+    },
+    "bbox": [
+      48.04,
+      150.59,
+      548.58,
+      287.39
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_41",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "Actions to adequately protect our IP rights could result in substantial costs to us and our ability to compete could be \nharmed if we are unsuccessful or if we are prohibited from making or selling our products.",
+    "metadata": {
+      "block_number": 3,
+      "char_count": 211
+    },
+    "bbox": [
+      48.04,
+      295.6,
+      548.31,
+      317.09
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_42",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "From time to time, we are involved in lawsuits or other legal proceedings alleging patent infringement or other IP rights \nviolations by us, our employees or parties that we have agreed to indemnify. An unfavorable ruling could include \nsignificant damages, invalidation of one or more patents, indemnification of third parties, payment of lost profits, or \ninjunctive relief. Claims that our products or processes infringe the IP rights of others, regardless of their merit, could \ncause us to incur significant costs to respond to, defend, and resolve such claims, and they may also divert the efforts \nand attention of management and technical personnel.",
+    "metadata": {
+      "block_number": 4,
+      "char_count": 657
+    },
+    "bbox": [
+      48.04,
+      322.39,
+      548.49,
+      385.81
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_43",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "We may commence legal proceedings to protect our IP rights, which may increase our operating expenses. We could be \nsubject to countersuits as a result. If infringement claims are made against us or our products are found to infringe a \nthird party’s IP, we or one of our indemnitees may have to seek a license to the third party’s IP rights. If we or one of our \nindemnitees is unable to obtain such a license, on acceptable terms or at all, we could be subject to substantial liabilities \nor have to suspend or discontinue the manufacture and sale of one or more of our products. We may also have to make \nroyalty or other payments, or cross license our technology. If these arrangements are not concluded on commercially \nreasonable terms, our business could be negatively impacted. Furthermore, the indemnification of a customer or other \nindemnitee may increase our operating expenses and negatively impact our operating results.",
+    "metadata": {
+      "block_number": 5,
+      "char_count": 934
+    },
+    "bbox": [
+      48.04,
+      394.02,
+      548.52,
+      478.4
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_44",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "We rely on patents, trademarks, trade secrets, employee and third-party nondisclosure agreements, licensing \narrangements, and the laws of the countries in which we operate to protect our IP. Foreign laws may not protect our \nproducts or IP rights to the same extent as United States law. This makes the possibility of piracy of our technology and \nproducts more likely. The theft or unauthorized use or publication of our trade secrets and other confidential information \ncould harm our competitive position and reduce acceptance of our products; as a result, the value of our investment in \nresearch and development, product development, and marketing could be reduced. We also may face risks to our IP if our \nemployees are hired by competitors. We continuously assess whether and where to seek formal protection for existing \nand new innovations and technologies but cannot be certain whether our applications for such protections will be \napproved, and, if approved, whether they will be enforceable.",
+    "metadata": {
+      "block_number": 6,
+      "char_count": 1005
+    },
+    "bbox": [
+      48.04,
+      486.61,
+      548.57,
+      581.48
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_45",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "We are subject to stringent and changing data privacy and security laws, rules, regulations, and other obligations. \nPrivacy or security concerns relating to our products and services could damage our reputation, deter current and \npotential customers, or result in legal or regulatory proceedings and liability.",
+    "metadata": {
+      "block_number": 7,
+      "char_count": 312
+    },
+    "bbox": [
+      48.04,
+      589.69,
+      548.37,
+      621.66
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_46",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "We may process sensitive, confidential or personal data or information that is subject to privacy and security laws, \nregulations, industry standards, external and internal policies, contracts and other obligations that govern the processing \nof such data by us and on our behalf. Concerns about our practices or the ultimate use of our products and services with \nregard to the collection, use, retention, security or disclosure of personal information or other privacy-related matters, \nincluding for use in AI, even if unfounded, could damage our reputation and adversely affect our operating results. The \ntheft, loss, or misuse of personal data in our possession or by one of our partners could result in damage to our \nreputation, regulatory proceedings, disruption of our business activities or increased security costs and costs related to \ndefending legal claims.",
+    "metadata": {
+      "block_number": 8,
+      "char_count": 872
+    },
+    "bbox": [
+      48.04,
+      626.96,
+      548.55,
+      711.34
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_47",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "In the United States, federal, state and local authorities have enacted numerous data privacy and security laws, including \nfor data breach notification, personal data privacy, and consumer protection. The California Consumer Privacy Act of \n2018, or CCPA, gives California residents the right to access, delete and opt-out of certain sharing of their personal \ninformation, and to receive detailed information about how it is used and shared. The CCPA allows for statutory fines of \nup to $7,500 per violation and the law created a private right of action for certain data breaches. The California Privacy \nRights Act of 2020, or CPRA, became operative in 2023, and restricts the use of certain categories of sensitive personal \ninformation; further restricts the use of cross-contextual advertising techniques; restricts the retention of personal \ninformation; expands the types of data breaches subject to the private right of action; and establishes the California \nPrivacy Protection Agency which can impose administrative fines for noncompliance. Virginia, Colorado, Utah and \nConnecticut have each passed their own privacy legislation which differ from the CPRA and each become effective in \n2023. Similar laws are being considered in several other states, as well as at the federal and local levels. Additionally, \nseveral states and localities have enacted measures related to the use of artificial intelligence and machine learning in \nproducts and services. If we become subject to additional data privacy laws, the risk of enforcement action against us \ncould increase.",
+    "metadata": {
+      "block_number": 0,
+      "char_count": 1581
+    },
+    "bbox": [
+      48.04,
+      41.69,
+      548.59,
+      188.97
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_48",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "Worldwide regulatory authorities are also considering and have approved various legislative proposals concerning data \nprotection. The European Union adopted the General Data Protection Regulation, or GDPR, and the United Kingdom \nsimilarly adopted the U.K. GDPR, governing the strict handling of personal data of persons within the European Economic \nArea, or EEA, and the United Kingdom, respectively, including its use and protection and the ability of persons whose data \nis stored to access, correct, and delete such data about themselves. If we are found not to comply, we could be subject to \npenalties of up to €20 million or 4% of worldwide revenue, whichever is greater, and classes of individuals or consumer \nprotection organizations may initiate litigation related to our processing of their personal data. Furthermore, there exists \na proposed European regulation related to AI that, if adopted, could impose onerous obligations that may \ndisproportionately impact and disadvantage us and require us to change our business practices.",
+    "metadata": {
+      "block_number": 1,
+      "char_count": 1047
+    },
+    "bbox": [
+      48.04,
+      197.18,
+      548.56,
+      292.05
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_49",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "In the ordinary course of business, we may transfer personal data from Europe, China, and other jurisdictions to the \nUnited States or other countries. Certain jurisdictions have enacted data localization laws and cross-border personal data \ntransfer laws. For example, the GDPR generally restricts the transfer of personal data to countries outside of the EEA. \nThe European Commission released a set of “Standard Contractual Clauses” designed for entities to validly transfer \npersonal data out of the EEA to jurisdictions that the European Commission has not found to provide an adequate level of \nprotection, including the United States. While the European Union and United States governments have recently \nannounced an agreement in principle on a new bilateral cross-border transfer mechanism, it is uncertain whether this \nagreement will be overturned in court like the previous two European Union-United States bilateral cross-border transfer \nagreements. These mechanisms are subject to legal challenges, and there is no assurance that we can satisfy or rely on \nthese measures to lawfully transfer personal data to the United States. Other jurisdictions have enacted or are \nconsidering similar cross-border personal data transfer laws and local personal data residency laws, any of which would \nincrease the cost and complexity of doing business and could result in fines from regulators. For example, China law \nimposes various requirements relating to data processing and data localization. Data broadly defined as important under \nChina law, including personal data, may not be transferable outside of China without prior assessment and approval by \nthe Cyberspace Administration of China, or CAC. Compliance with these requirements, including CAC assessments and \nany deemed failures of such assessments, could cause us to incur liability, prevent us from using data collected in China, \nor impact our ability to transfer data outside of China. The inability to import personal data to the United States could \nsignificantly and negatively impact our business operations, limit our ability to collaborate with parties that are subject to \nEuropean, China, and other data privacy and security laws, or require us to increase our personal data processing \ncapabilities in Europe and/or elsewhere at significant expense. Some European regulators have prevented companies \nfrom transferring personal data out of Europe for allegedly violating the GDPR’s cross-border data transfer limitations, \nwhich could negatively impact our business.",
+    "metadata": {
+      "block_number": 2,
+      "char_count": 2549
+    },
+    "bbox": [
+      48.04,
+      300.26,
+      548.59,
+      531.39
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_50",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "We may also be bound by contractual obligations related to data privacy and security, and our efforts to comply with such \nobligations may not be successful or may be claimed to be non-compliant. For example, certain privacy laws, such as the \nGDPR and the CCPA, require our customers to impose specific contractual restrictions on their service providers. We \nsometimes host personal data in collaboration with our customers, and if a breach exposed or altered that personal data, \nit could harm those customer relationships and subject us to litigation, regulatory action, or fines. We may publish privacy \npolicies, marketing materials and other statements, such as compliance with certain certifications or self-regulatory \nprinciples, regarding data privacy and security. If these policies, materials or statements are found to be deficient, lacking \nin transparency, deceptive, unfair, or misrepresentative of our practices, we may be subject to investigation, enforcement \nactions by regulators or other adverse consequences.",
+    "metadata": {
+      "block_number": 3,
+      "char_count": 1032
+    },
+    "bbox": [
+      48.04,
+      539.61,
+      548.59,
+      634.47
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_51",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 4,
+    "element_type": "text",
+    "content": "Data protection laws around the world are quickly changing and may be interpreted and applied in an increasingly \nstringent fashion and in a manner that is inconsistent with our data practices. These obligations may necessitate changes \nto our information technologies, systems, and practices and to those of any third parties that process personal data on \nour behalf. Despite our efforts, we or third parties upon whom we rely may fail to comply with such obligations. If we fail, \nor are perceived to have failed, to address or comply with data privacy and security obligations, we could face significant \nconsequences, including but not limited to, government enforcement actions, litigation, additional reporting \nrequirements and/or oversight, bans on processing personal data and orders to destroy or not use personal data. Any of \nthese events could have a material adverse effect on our reputation, business, or financial condition.",
+    "metadata": {
+      "block_number": 4,
+      "char_count": 941
+    },
+    "bbox": [
+      48.04,
+      642.68,
+      548.51,
+      727.07
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_52",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "NVIDIA CORPORATION AND SUBSIDIARIES\nNOTES TO THE CONSOLIDATED FINANCIAL STATEMENTS",
+    "metadata": {
+      "block_number": 24,
+      "char_count": 82
+    },
+    "bbox": [
+      176.09,
+      22.62,
+      418.11,
+      44.11
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_53",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "As of January 29, 2023, we had U.S. federal, state and foreign net operating loss carryforwards of $363 million, $329 \nmillion and $329 million, respectively. The federal and state carryforwards will begin to expire in fiscal years 2026 and \n2024, respectively. The foreign net operating loss carryforwards of $329 million may be carried forward indefinitely. As of \nJanuary 29, 2023, we had federal research tax credit carryforwards of $26 million, before the impact of uncertain tax \npositions, that will begin to expire in fiscal year 2024. We have state research tax credit carryforwards of $1.49 billion, \nbefore the impact of uncertain tax positions. $1.41 billion is attributable to the State of California and may be carried over \nindefinitely and $83  million is attributable to various other states and will begin to expire in fiscal year 2024. As of \nJanuary 29, 2023, we had federal capital loss carryforwards of $1.38 billion that will begin to expire in fiscal year 2024.",
+    "metadata": {
+      "block_number": 0,
+      "char_count": 985
+    },
+    "bbox": [
+      48.04,
+      70.08,
+      548.4,
+      154.47
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_54",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Our tax attributes remain subject to audit and may be adjusted for changes or modification in tax laws, other \nauthoritative interpretations thereof, or other facts and circumstances. Utilization of tax attributes may also be subject \nto limitations due to ownership changes and other limitations provided by the Internal Revenue Code and similar state \nand foreign tax provisions. If any such limitations apply, the tax attributes may expire or be denied before utilization.",
+    "metadata": {
+      "block_number": 1,
+      "char_count": 475
+    },
+    "bbox": [
+      48.04,
+      162.68,
+      548.45,
+      205.13
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_55",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "A reconciliation of gross unrecognized tax benefits is as follows:",
+    "metadata": {
+      "block_number": 2,
+      "char_count": 66
+    },
+    "bbox": [
+      48.04,
+      213.34,
+      309.47,
+      224.35
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_56",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "2023\nJanuary 30,",
+    "metadata": {
+      "block_number": 5,
+      "char_count": 16
+    },
+    "bbox": [
+      371.46,
+      234.03,
+      465.52,
+      249.38
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_57",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "2022\nJanuary 31,",
+    "metadata": {
+      "block_number": 6,
+      "char_count": 16
+    },
+    "bbox": [
+      438.43,
+      234.03,
+      532.49,
+      249.38
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_58",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Balance at beginning of period\n$ \n1,013 \n$ \n776 \n$ \n583",
+    "metadata": {
+      "block_number": 9,
+      "char_count": 55
+    },
+    "bbox": [
+      50.6,
+      267.03,
+      544.19,
+      275.59
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_59",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Increases in tax positions for current year\n \n268 \n \n246 \n \n158",
+    "metadata": {
+      "block_number": 10,
+      "char_count": 63
+    },
+    "bbox": [
+      50.6,
+      278.67,
+      544.19,
+      287.23
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_60",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Increases in tax positions for prior years\n \n1 \n \n14 \n \n60",
+    "metadata": {
+      "block_number": 11,
+      "char_count": 58
+    },
+    "bbox": [
+      50.6,
+      290.32,
+      544.19,
+      298.88
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_61",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Decreases in tax positions for prior years\n \n(15)  \n(4)  \n(11)",
+    "metadata": {
+      "block_number": 12,
+      "char_count": 62
+    },
+    "bbox": [
+      50.6,
+      301.97,
+      546.25,
+      310.53
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_62",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Settlements\n \n(9)  \n(8)  \n(5)",
+    "metadata": {
+      "block_number": 13,
+      "char_count": 29
+    },
+    "bbox": [
+      50.6,
+      313.61,
+      546.25,
+      322.17
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_63",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Lapse in statute of limitations\n \n(20)  \n(11)  \n(9)",
+    "metadata": {
+      "block_number": 14,
+      "char_count": 51
+    },
+    "bbox": [
+      50.6,
+      325.26,
+      546.25,
+      333.82
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_64",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Balance at end of period\n$ \n1,238 \n$ \n1,013 \n$ \n776",
+    "metadata": {
+      "block_number": 15,
+      "char_count": 51
+    },
+    "bbox": [
+      50.6,
+      336.91,
+      544.19,
+      345.47
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_65",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Included in the balance of unrecognized tax benefits as of January 29, 2023 are $770 million of tax benefits that would \naffect our effective tax rate if recognized.",
+    "metadata": {
+      "block_number": 16,
+      "char_count": 165
+    },
+    "bbox": [
+      48.04,
+      354.61,
+      548.16,
+      376.1
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_66",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "We classify an unrecognized tax benefit as a current liability, or amount refundable, to the extent that we anticipate \npayment or receipt of cash for income taxes within one year. The amount is classified as a long-term liability, or reduction \nof long-term amount refundable, if we anticipate payment or receipt of cash for income taxes during a period beyond a \nyear.",
+    "metadata": {
+      "block_number": 17,
+      "char_count": 370
+    },
+    "bbox": [
+      48.04,
+      384.31,
+      548.6,
+      426.77
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_67",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "We include interest and penalties related to unrecognized tax benefits as a component of income tax expense. We \nrecognized net interest and penalties related to unrecognized tax benefits in income tax expense line of our consolidated \nstatements of income of $33 million, $14 million, and $7 million during fiscal years 2023, 2022 and 2021, respectively. As \nof January 29, 2023 and January 30, 2022, we have accrued $95 million and $59 million, respectively, for the payment of \ninterest and penalties related to unrecognized tax benefits, which is not included as a component of our gross \nunrecognized tax benefits.",
+    "metadata": {
+      "block_number": 18,
+      "char_count": 619
+    },
+    "bbox": [
+      48.04,
+      434.98,
+      548.5,
+      498.39
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_68",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "While we believe that we have adequately provided for all tax positions, amounts asserted by tax authorities could be \ngreater or less than our accrued position. Accordingly, our provisions on federal, state and foreign tax-related matters to \nbe recorded in the future may change as revised estimates are made or the underlying matters are settled or otherwise \nresolved. As of January 29, 2023, we have not identified any positions for which it is reasonably possible that the total \namounts of unrecognized tax benefits will significantly increase or decrease within the next twelve months.",
+    "metadata": {
+      "block_number": 19,
+      "char_count": 593
+    },
+    "bbox": [
+      48.04,
+      506.61,
+      548.53,
+      559.54
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_69",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "We are subject to taxation by taxing authorities both in the United States and other countries. As of January 29, 2023, \nthe significant tax jurisdictions that may be subject to examination include China, Germany, Hong Kong, India, Israel, \nTaiwan, United Kingdom, and the United States for fiscal years 2005 through 2022. As of January 29, 2023, the \nsignificant tax jurisdictions for which we are currently under examination include Germany, India, Israel, and the United \nStates for fiscal years 2005 through 2022.",
+    "metadata": {
+      "block_number": 20,
+      "char_count": 517
+    },
+    "bbox": [
+      48.04,
+      567.75,
+      548.49,
+      620.69
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_70",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Note 15 - Shareholders’ Equity",
+    "metadata": {
+      "block_number": 21,
+      "char_count": 30
+    },
+    "bbox": [
+      48.04,
+      631.54,
+      189.84,
+      643.77
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_71",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "Capital Return Program",
+    "metadata": {
+      "block_number": 22,
+      "char_count": 22
+    },
+    "bbox": [
+      48.04,
+      655.11,
+      147.0,
+      666.11
+    ]
+  },
+  {
+    "element_id": "nvidia_geo_margin_text_72",
+    "doc_name": "nvidia_geo_margin",
+    "page_number": 5,
+    "element_type": "text",
+    "content": "During fiscal year 2023, we repurchased 63 million shares for $10.04 billion. Since the inception of our share repurchase \nprogram through January 29, 2023, we have repurchased an aggregate of 1.10 billion shares under our share repurchase \nprogram for a total cost of $17.12 billion. As of January 29, 2023, we were authorized, subject to certain specifications, to \nrepurchase an additional $7.23 billion of shares through December 2023.",
+    "metadata": {
+      "block_number": 23,
+      "char_count": 439
+    },
+    "bbox": [
+      48.04,
+      668.5,
+      548.26,
+      710.95
+    ]
+  }
+]

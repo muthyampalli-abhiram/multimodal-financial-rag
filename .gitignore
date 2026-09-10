@@ -1,0 +1,42 @@
+# Environment variables and secrets
+.env
+.env.local
+.env.*.local
+.env.development.local
+.env.test.local
+.env.production.local
+!.env.example
+*.pem
+*.key
+
+# Python bytecode and caches
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.coverage
+htmlcov/
+.mypy_cache/
+.ruff_cache/
+
+# Virtual environments
+venv/
+.venv/
+env/
+ENV/
+
+# Data & Vector Store index artifacts (except .gitkeep)
+financial_rag/data/vector_store/*
+!financial_rag/data/vector_store/.gitkeep
+data/vector_store/*
+!data/vector_store/.gitkeep
+*.chromadb
+*.sqlite3
+
+# IDE and OS files
+.vscode/
+.idea/
+*.swp
+*.swo
+.DS_Store
+Thumbs.db

@@ -1,0 +1,1306 @@
+[
+  {
+    "element_id": "nvidia_test_subset_text_1",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "BUSINESS OVERVIEW",
+    "metadata": {
+      "block_number": 0,
+      "char_count": 17
+    },
+    "bbox": [
+      246.28,
+      85.49,
+      347.72,
+      97.72
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_2",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "NVIDIA pioneered accelerated computing to help solve the most challenging computational problems. We specialize in \nmarkets in which our computing platforms can provide tremendous acceleration for applications.",
+    "metadata": {
+      "block_number": 1,
+      "char_count": 210
+    },
+    "bbox": [
+      48.04,
+      116.19,
+      548.44,
+      137.24
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_3",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "Fiscal 2023 Results",
+    "metadata": {
+      "block_number": 2,
+      "char_count": 19
+    },
+    "bbox": [
+      251.25,
+      152.06,
+      340.57,
+      164.29
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_4",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "Revenue\nGross Margin\nOperating Income\nDiluted EPS",
+    "metadata": {
+      "block_number": 3,
+      "char_count": 49
+    },
+    "bbox": [
+      86.55,
+      178.08,
+      512.45,
+      190.31
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_5",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "$27.0 billion \n56.9%\n$4.2 billion\n$1.74",
+    "metadata": {
+      "block_number": 4,
+      "char_count": 39
+    },
+    "bbox": [
+      81.01,
+      193.89,
+      497.68,
+      204.9
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_6",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "flat year on year \n down 8.0 points year on year \ndown 58% year on year \ndown 55% year on year",
+    "metadata": {
+      "block_number": 5,
+      "char_count": 94
+    },
+    "bbox": [
+      72.84,
+      211.36,
+      534.74,
+      222.37
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_7",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "Fiscal 2023 Reportable Segments",
+    "metadata": {
+      "block_number": 6,
+      "char_count": 31
+    },
+    "bbox": [
+      217.89,
+      245.24,
+      373.19,
+      257.47
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_8",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "Our two reportable segments are “Compute & Networking” and “Graphics”:",
+    "metadata": {
+      "block_number": 7,
+      "char_count": 70
+    },
+    "bbox": [
+      48.04,
+      275.17,
+      357.6,
+      286.18
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_9",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "Compute & Networking\nGraphics\nAll Other*\nConsolidated",
+    "metadata": {
+      "block_number": 8,
+      "char_count": 53
+    },
+    "bbox": [
+      117.44,
+      302.27,
+      522.75,
+      314.5
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_10",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "$15.1 billion\n$11.9 billion",
+    "metadata": {
+      "block_number": 10,
+      "char_count": 27
+    },
+    "bbox": [
+      146.89,
+      320.99,
+      307.72,
+      332.0
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_11",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "up 36% year on year\ndown 25% year on year\nflat year on year",
+    "metadata": {
+      "block_number": 13,
+      "char_count": 59
+    },
+    "bbox": [
+      130.87,
+      338.46,
+      525.58,
+      349.47
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_12",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "* Includes expenses that our chief operating decision maker does not assign to either Compute & Networking or Graphics for purposes \nof making operating decisions or assessing financial performance.",
+    "metadata": {
+      "block_number": 19,
+      "char_count": 198
+    },
+    "bbox": [
+      48.04,
+      409.43,
+      538.95,
+      428.53
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_13",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "Fiscal 2023 Market Platforms",
+    "metadata": {
+      "block_number": 20,
+      "char_count": 28
+    },
+    "bbox": [
+      226.76,
+      446.49,
+      364.32,
+      458.72
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_14",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "Our platforms address four large markets where our expertise is critical:",
+    "metadata": {
+      "block_number": 21,
+      "char_count": 73
+    },
+    "bbox": [
+      48.04,
+      476.42,
+      342.9,
+      487.43
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_chart_1",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "chart",
+    "content": "[PHOTO: NVIDIA Data Center Server Racks] The photo displays NVIDIA DGX server hardware mounted inside data center equipment racks. It serves as an illustrative visual for NVIDIA's Data Center market platform in the business overview section of the report. There are no direct financial or quantitative data points within the image itself.",
+    "metadata": {
+      "image_path": "C:\\Users\\abhir\\OneDrive\\Desktop\\Multimodal financial intelligence RAG system\\financial_rag\\data\\processed\\images\\nvidia_test_subset\\page_1_img_1_xref_5.png",
+      "relative_path": "data/processed/images/nvidia_test_subset/page_1_img_1_xref_5.png",
+      "image_filename": "page_1_img_1_xref_5.png",
+      "width": 711,
+      "height": 667,
+      "pixel_area": 474237,
+      "xref": 5,
+      "original_ext": "jpeg",
+      "gemini_analysis": {
+        "chart_type": "photo",
+        "title": "NVIDIA Data Center Server Racks",
+        "summary": "The photo displays NVIDIA DGX server hardware mounted inside data center equipment racks. It serves as an illustrative visual for NVIDIA's Data Center market platform in the business overview section of the report. There are no direct financial or quantitative data points within the image itself.",
+        "data_points": [],
+        "time_period": null,
+        "is_financial": false
+      }
+    },
+    "bbox": [
+      55.68,
+      502.95,
+      164.87,
+      605.48
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_chart_2",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "chart",
+    "content": "[PHOTO: Video Game Graphics Showcase - Gaming Market Platform] The image is a high-resolution video game screenshot featuring a character standing on a rocky path overlooking a detailed landscape with lavender fields, olive trees, and mountains. Included in NVIDIA's annual report, it illustrates the company's advanced GPU rendering and visual technology capabilities within its Gaming market platform. The visual is purely illustrative and contains no quantitative metrics.",
+    "metadata": {
+      "image_path": "C:\\Users\\abhir\\OneDrive\\Desktop\\Multimodal financial intelligence RAG system\\financial_rag\\data\\processed\\images\\nvidia_test_subset\\page_1_img_2_xref_6.png",
+      "relative_path": "data/processed/images/nvidia_test_subset/page_1_img_2_xref_6.png",
+      "image_filename": "page_1_img_2_xref_6.png",
+      "width": 711,
+      "height": 667,
+      "pixel_area": 474237,
+      "xref": 6,
+      "original_ext": "jpeg",
+      "gemini_analysis": {
+        "chart_type": "photo",
+        "title": "Video Game Graphics Showcase - Gaming Market Platform",
+        "summary": "The image is a high-resolution video game screenshot featuring a character standing on a rocky path overlooking a detailed landscape with lavender fields, olive trees, and mountains. Included in NVIDIA's annual report, it illustrates the company's advanced GPU rendering and visual technology capabilities within its Gaming market platform. The visual is purely illustrative and contains no quantitative metrics.",
+        "data_points": [],
+        "time_period": null,
+        "is_financial": false
+      }
+    },
+    "bbox": [
+      180.16,
+      503.04,
+      289.35,
+      605.48
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_chart_3",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "chart",
+    "content": "[PHOTO: Industrial Robotic Arm Handling Amazon Package] The image depicts a high-precision robotic arm picking up a cardboard box featuring an Amazon logo inside an automated fulfillment center or industrial facility. It visually illustrates technologies related to robotics, AI, industrial automation, and logistics. There are no quantitative charts or financial metrics displayed in the image.",
+    "metadata": {
+      "image_path": "C:\\Users\\abhir\\OneDrive\\Desktop\\Multimodal financial intelligence RAG system\\financial_rag\\data\\processed\\images\\nvidia_test_subset\\page_1_img_3_xref_7.png",
+      "relative_path": "data/processed/images/nvidia_test_subset/page_1_img_3_xref_7.png",
+      "image_filename": "page_1_img_3_xref_7.png",
+      "width": 711,
+      "height": 667,
+      "pixel_area": 474237,
+      "xref": 7,
+      "original_ext": "jpeg",
+      "gemini_analysis": {
+        "chart_type": "photo",
+        "title": "Industrial Robotic Arm Handling Amazon Package",
+        "summary": "The image depicts a high-precision robotic arm picking up a cardboard box featuring an Amazon logo inside an automated fulfillment center or industrial facility. It visually illustrates technologies related to robotics, AI, industrial automation, and logistics. There are no quantitative charts or financial metrics displayed in the image.",
+        "data_points": [],
+        "time_period": null,
+        "is_financial": false
+      }
+    },
+    "bbox": [
+      304.64,
+      503.04,
+      413.83,
+      605.48
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_chart_4",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "chart",
+    "content": "[PHOTO: Automated Vehicle Manufacturing Assembly Line] The image depicts a modern automated manufacturing facility featuring orange robotic arms working on a metallic car chassis on an assembly line. It serves as an illustrative visual for industrial automation, robotics, and smart manufacturing applications. The photograph contains no embedded financial charts or numeric metrics.",
+    "metadata": {
+      "image_path": "C:\\Users\\abhir\\OneDrive\\Desktop\\Multimodal financial intelligence RAG system\\financial_rag\\data\\processed\\images\\nvidia_test_subset\\page_1_img_4_xref_8.png",
+      "relative_path": "data/processed/images/nvidia_test_subset/page_1_img_4_xref_8.png",
+      "image_filename": "page_1_img_4_xref_8.png",
+      "width": 534,
+      "height": 500,
+      "pixel_area": 267000,
+      "xref": 8,
+      "original_ext": "jpeg",
+      "gemini_analysis": {
+        "chart_type": "photo",
+        "title": "Automated Vehicle Manufacturing Assembly Line",
+        "summary": "The image depicts a modern automated manufacturing facility featuring orange robotic arms working on a metallic car chassis on an assembly line. It serves as an illustrative visual for industrial automation, robotics, and smart manufacturing applications. The photograph contains no embedded financial charts or numeric metrics.",
+        "data_points": [],
+        "time_period": null,
+        "is_financial": false
+      }
+    },
+    "bbox": [
+      429.12,
+      503.24,
+      538.31,
+      605.48
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_15",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "Data Center\nGaming\nProfessional \nVisualization\nAutomotive",
+    "metadata": {
+      "block_number": 22,
+      "char_count": 57
+    },
+    "bbox": [
+      81.96,
+      612.17,
+      511.06,
+      636.04
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_16",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "$15.0 billion revenue",
+    "metadata": {
+      "block_number": 23,
+      "char_count": 21
+    },
+    "bbox": [
+      67.25,
+      637.88,
+      153.37,
+      648.88
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_17",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "$9.1 billion revenue",
+    "metadata": {
+      "block_number": 25,
+      "char_count": 20
+    },
+    "bbox": [
+      194.35,
+      637.88,
+      275.23,
+      648.88
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_18",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "$1.5 billion revenue",
+    "metadata": {
+      "block_number": 27,
+      "char_count": 20
+    },
+    "bbox": [
+      318.83,
+      637.88,
+      399.71,
+      648.88
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_19",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "$0.9 billion revenue",
+    "metadata": {
+      "block_number": 29,
+      "char_count": 20
+    },
+    "bbox": [
+      443.31,
+      637.88,
+      524.19,
+      648.88
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_20",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "up 41% year on year",
+    "metadata": {
+      "block_number": 24,
+      "char_count": 19
+    },
+    "bbox": [
+      69.0,
+      655.35,
+      151.63,
+      666.35
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_21",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "down 27% year on year",
+    "metadata": {
+      "block_number": 26,
+      "char_count": 21
+    },
+    "bbox": [
+      187.5,
+      655.35,
+      282.08,
+      666.35
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_22",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "down 27% year on year",
+    "metadata": {
+      "block_number": 28,
+      "char_count": 21
+    },
+    "bbox": [
+      311.98,
+      655.35,
+      406.55,
+      666.35
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_23",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 1,
+    "element_type": "text",
+    "content": "up 60% year on year",
+    "metadata": {
+      "block_number": 30,
+      "char_count": 19
+    },
+    "bbox": [
+      442.43,
+      655.35,
+      525.06,
+      666.35
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_24",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "Recent Highlights",
+    "metadata": {
+      "block_number": 0,
+      "char_count": 17
+    },
+    "bbox": [
+      253.96,
+      101.78,
+      337.12,
+      114.01
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_25",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "Recent business highlights include:",
+    "metadata": {
+      "block_number": 1,
+      "char_count": 35
+    },
+    "bbox": [
+      48.04,
+      124.19,
+      191.32,
+      135.2
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_26",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nThe NVIDIA Hopper GPU architecture and ramp of the first products based on the architecture, including the \nNVIDIA H100 Tensor Core GPU",
+    "metadata": {
+      "block_number": 2,
+      "char_count": 137
+    },
+    "bbox": [
+      65.51,
+      144.29,
+      548.45,
+      165.77
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_27",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nNVIDIA cloud services, including:",
+    "metadata": {
+      "block_number": 3,
+      "char_count": 35
+    },
+    "bbox": [
+      65.51,
+      171.07,
+      214.98,
+      182.08
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_28",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "◦\nNVIDIA DGX Cloud, an AI supercomputing service that gives enterprises immediate access to the \ninfrastructure and software needed to train advanced models for generative AI and other \ngroundbreaking applications. NVIDIA has partnered with leading cloud service providers to host these \nservices in their data centers",
+    "metadata": {
+      "block_number": 4,
+      "char_count": 318
+    },
+    "bbox": [
+      100.46,
+      187.38,
+      548.47,
+      229.83
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_29",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "◦\nNVIDIA AI Foundations, a set of cloud services that advance enterprise-level generative AI and enable \ncustomization across use cases in areas such as text, visual content, and biology",
+    "metadata": {
+      "block_number": 5,
+      "char_count": 186
+    },
+    "bbox": [
+      100.46,
+      235.13,
+      548.45,
+      256.62
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_30",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "◦\nNVIDIA Omniverse Cloud, a platform-as-a-service giving instant access to a full-stack environment to \ndesign, develop, deploy and manage industrial metaverse applications",
+    "metadata": {
+      "block_number": 6,
+      "char_count": 172
+    },
+    "bbox": [
+      100.46,
+      261.92,
+      548.36,
+      283.41
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_31",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nNew inference platforms for generative AI inflection",
+    "metadata": {
+      "block_number": 7,
+      "char_count": 54
+    },
+    "bbox": [
+      65.51,
+      288.71,
+      296.12,
+      299.72
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_32",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nThe new Ada Lovelace GPU architecture, and introduction of the first products based on Ada. We also introduced \nNVIDIA DLSS 3 for over 50 games and applications and brought GeForce RTX 4080-class performance to the \nGeForce NOW Ultimate membership tier",
+    "metadata": {
+      "block_number": 8,
+      "char_count": 254
+    },
+    "bbox": [
+      65.51,
+      305.01,
+      548.52,
+      336.99
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_33",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "•\nProduction of the NVIDIA DRIVE Orin autonomous vehicle system-on-a-chip and introduction of next-generation \nNVIDIA DRIVE Thor",
+    "metadata": {
+      "block_number": 9,
+      "char_count": 128
+    },
+    "bbox": [
+      65.51,
+      342.29,
+      548.42,
+      363.34
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_34",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "Fiscal 2023 Returns to Shareholders",
+    "metadata": {
+      "block_number": 10,
+      "char_count": 35
+    },
+    "bbox": [
+      210.08,
+      388.49,
+      380.27,
+      400.72
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_35",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "Total Shareholder Return*\nTotal Capital Returned to Shareholders",
+    "metadata": {
+      "block_number": 11,
+      "char_count": 64
+    },
+    "bbox": [
+      110.01,
+      421.07,
+      510.64,
+      433.3
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_chart_5",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 2,
+    "element_type": "chart",
+    "content": "[BAR: Total Shareholder Return (TSR)] The bar chart illustrates Total Shareholder Return (TSR) across 1-year, 3-year, and 5-year timeframes. While the 1-year TSR decreased by 11%, the multi-year metrics demonstrate significant long-term growth, reaching 226% over 3 years and 238% over 5 years.",
+    "metadata": {
+      "image_path": "C:\\Users\\abhir\\OneDrive\\Desktop\\Multimodal financial intelligence RAG system\\financial_rag\\data\\processed\\images\\nvidia_test_subset\\page_2_img_1_xref_13.png",
+      "relative_path": "data/processed/images/nvidia_test_subset/page_2_img_1_xref_13.png",
+      "image_filename": "page_2_img_1_xref_13.png",
+      "width": 3469,
+      "height": 3670,
+      "pixel_area": 12731230,
+      "xref": 13,
+      "original_ext": "jpeg",
+      "gemini_analysis": {
+        "chart_type": "bar",
+        "title": "Total Shareholder Return (TSR)",
+        "summary": "The bar chart illustrates Total Shareholder Return (TSR) across 1-year, 3-year, and 5-year timeframes. While the 1-year TSR decreased by 11%, the multi-year metrics demonstrate significant long-term growth, reaching 226% over 3 years and 238% over 5 years.",
+        "data_points": [
+          {
+            "label": "1-Year TSR",
+            "value": "-11%"
+          },
+          {
+            "label": "3-Year TSR",
+            "value": "226%"
+          },
+          {
+            "label": "5-Year TSR",
+            "value": "238%"
+          }
+        ],
+        "time_period": null,
+        "is_financial": true
+      }
+    },
+    "bbox": [
+      79.35,
+      432.1,
+      261.33,
+      625.01
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_chart_6",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 2,
+    "element_type": "chart",
+    "content": "[BAR: Total Capital Returned to Shareholders] The stacked bar chart details the total capital returned to shareholders, totaling $10.4 billion. Stock repurchases comprise the dominant portion of the returns at $10.0 billion, whereas dividends account for $0.4 billion. This indicates a capital return policy overwhelmingly focused on share buybacks.",
+    "metadata": {
+      "image_path": "C:\\Users\\abhir\\OneDrive\\Desktop\\Multimodal financial intelligence RAG system\\financial_rag\\data\\processed\\images\\nvidia_test_subset\\page_2_img_2_xref_14.png",
+      "relative_path": "data/processed/images/nvidia_test_subset/page_2_img_2_xref_14.png",
+      "image_filename": "page_2_img_2_xref_14.png",
+      "width": 4710,
+      "height": 3576,
+      "pixel_area": 16842960,
+      "xref": 14,
+      "original_ext": "jpeg",
+      "gemini_analysis": {
+        "chart_type": "bar",
+        "title": "Total Capital Returned to Shareholders",
+        "summary": "The stacked bar chart details the total capital returned to shareholders, totaling $10.4 billion. Stock repurchases comprise the dominant portion of the returns at $10.0 billion, whereas dividends account for $0.4 billion. This indicates a capital return policy overwhelmingly focused on share buybacks.",
+        "data_points": [
+          {
+            "label": "Total Capital Returned",
+            "value": "$10.4 Billion"
+          },
+          {
+            "label": "Stock Repurchases",
+            "value": "$10.0 Billion"
+          },
+          {
+            "label": "Dividends",
+            "value": "$0.4 Billion"
+          }
+        ],
+        "time_period": "FY2023",
+        "is_financial": true
+      }
+    },
+    "bbox": [
+      303.55,
+      440.03,
+      536.49,
+      617.07
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_36",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "*Represents cumulative stock price appreciation with dividends \nreinvested and is measured for the applicable fiscal year periods \nbased on our closing stock price of $203.65 on the last trading \nday of Fiscal 2023.",
+    "metadata": {
+      "block_number": 12,
+      "char_count": 215
+    },
+    "bbox": [
+      50.6,
+      631.95,
+      285.75,
+      665.03
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_37",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 2,
+    "element_type": "text",
+    "content": "Please see our Form 10-K for more financial information for Fiscal 2023.",
+    "metadata": {
+      "block_number": 13,
+      "char_count": 72
+    },
+    "bbox": [
+      48.04,
+      683.84,
+      342.38,
+      694.84
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_38",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "Election of Directors (Proposal 1)",
+    "metadata": {
+      "block_number": 0,
+      "char_count": 34
+    },
+    "bbox": [
+      48.04,
+      41.69,
+      186.56,
+      52.7
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_39",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "The following table provides summary information about each director nominee:",
+    "metadata": {
+      "block_number": 1,
+      "char_count": 77
+    },
+    "bbox": [
+      48.04,
+      58.0,
+      375.57,
+      69.01
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_40",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "Financial \nExpert (1)\nCommittee Membership",
+    "metadata": {
+      "block_number": 5,
+      "char_count": 42
+    },
+    "bbox": [
+      308.22,
+      76.39,
+      456.97,
+      96.13
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_41",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "Other Public \nCompany Boards",
+    "metadata": {
+      "block_number": 6,
+      "char_count": 28
+    },
+    "bbox": [
+      466.45,
+      76.39,
+      537.4,
+      96.13
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_42",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "Since\nIndependent",
+    "metadata": {
+      "block_number": 4,
+      "char_count": 17
+    },
+    "bbox": [
+      197.26,
+      85.13,
+      297.39,
+      96.13
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_43",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "Robert K. Burgess\n65\n2011\nü\nü\nCC",
+    "metadata": {
+      "block_number": 7,
+      "char_count": 32
+    },
+    "bbox": [
+      56.05,
+      97.98,
+      412.09,
+      109.97
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_44",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "John O. Dabiri\n43\n2020\nü\nCC",
+    "metadata": {
+      "block_number": 9,
+      "char_count": 27
+    },
+    "bbox": [
+      56.05,
+      125.64,
+      412.09,
+      137.22
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_45",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "Jen-Hsun Huang\n60\n1993",
+    "metadata": {
+      "block_number": 11,
+      "char_count": 22
+    },
+    "bbox": [
+      56.05,
+      153.3,
+      217.64,
+      164.31
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_46",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "Harvey C. Jones\n70\n1993\nü\nü\nCC, NCGC Chairperson (3)",
+    "metadata": {
+      "block_number": 13,
+      "char_count": 52
+    },
+    "bbox": [
+      56.05,
+      179.68,
+      456.93,
+      192.54
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_47",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "Stephen C. Neal\nLead Director (5)\n74\n2019\nü\nNCGC Chairperson (3)",
+    "metadata": {
+      "block_number": 15,
+      "char_count": 64
+    },
+    "bbox": [
+      56.05,
+      208.63,
+      448.92,
+      231.28
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_48",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "A. Brooke Seawell\n75\n1997\nü\nü\nAC Chairperson (4)\n1",
+    "metadata": {
+      "block_number": 17,
+      "char_count": 50
+    },
+    "bbox": [
+      56.05,
+      258.3,
+      506.64,
+      271.16
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_table_1",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "table",
+    "content": "| Aarti Shah 58 2020      | Col1   | Col2   | ü   | AC       |\n|:------------------------|:-------|:-------|:----|:---------|\n| Mark A. Stevens 63 2008 | (6)    |        | ü   | AC, NCGC |",
+    "metadata": {
+      "table_index": 6,
+      "row_count": 1,
+      "col_count": 5,
+      "columns": [
+        "Aarti Shah 58 2020",
+        "Col1",
+        "Col2",
+        "ü",
+        "AC"
+      ],
+      "table_data": [
+        {
+          "Aarti Shah 58 2020": "Mark A. Stevens 63 2008",
+          "Col1": "(6)",
+          "Col2": "",
+          "ü": "ü",
+          "AC": "AC, NCGC"
+        }
+      ]
+    },
+    "bbox": [
+      53.5,
+      272.33,
+      540.49,
+      299.99
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_49",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "(1) For purposes of qualifying as an AC financial expert",
+    "metadata": {
+      "block_number": 20,
+      "char_count": 56
+    },
+    "bbox": [
+      48.04,
+      307.75,
+      218.65,
+      317.31
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_50",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "(2) Ms. Hudson is not seeking re-election to Modern Times Group MTG AB’s board of directors effective as of MTG’s 2023 annual general meeting",
+    "metadata": {
+      "block_number": 21,
+      "char_count": 141
+    },
+    "bbox": [
+      48.04,
+      318.82,
+      506.71,
+      328.38
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_51",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "(3) Mr. Jones will serve as NCGC Chairperson until our 2023 Meeting, at which time Mr. Neal will take over as NCGC Chairperson",
+    "metadata": {
+      "block_number": 22,
+      "char_count": 126
+    },
+    "bbox": [
+      48.04,
+      329.88,
+      449.48,
+      339.44
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_52",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "(4) Mr. McCaffery will serve as AC Chairperson until our 2023 Meeting, at which time Mr. Seawell will take over as AC Chairperson",
+    "metadata": {
+      "block_number": 23,
+      "char_count": 129
+    },
+    "bbox": [
+      48.04,
+      340.95,
+      454.27,
+      350.51
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_53",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "(5) Mr. Perry will serve as Lead Director until our 2023 Meeting, at which time Mr. Neal will take over as Lead Director",
+    "metadata": {
+      "block_number": 24,
+      "char_count": 120
+    },
+    "bbox": [
+      48.04,
+      352.01,
+      414.95,
+      361.57
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_54",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "(6) Previously served as a member of our Board from 1993 until 2006",
+    "metadata": {
+      "block_number": 25,
+      "char_count": 67
+    },
+    "bbox": [
+      48.04,
+      363.08,
+      264.11,
+      372.64
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_55",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "Recent Refreshment, Board Demographics and Nominee Qualifications",
+    "metadata": {
+      "block_number": 26,
+      "char_count": 65
+    },
+    "bbox": [
+      48.04,
+      380.16,
+      376.41,
+      392.39
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_56",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "Our director nominees exhibit a variety of competencies, professional experience, and backgrounds, and contribute \ndiverse viewpoints and perspectives to our Board.  While the Board benefits from the experience and institutional \nknowledge that our longer-serving directors bring, it has also brought in new perspectives and ideas through the \nappointment of two new directors since 2020.  The Board also regularly rotates committee membership and chairpersons \nto promote a diversity of viewpoints on the Board committees.",
+    "metadata": {
+      "block_number": 27,
+      "char_count": 523
+    },
+    "bbox": [
+      48.04,
+      397.9,
+      548.56,
+      450.84
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_57",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "The Board and the NCGC has identified and continue to seek highly qualified women and individuals from \nunderrepresented groups to include in the initial pool of potential director nominees, as discussed below under Director \nQualifications and Nomination of Directors. The Board’s commitment to achieving a diverse and inclusive membership is \ndemonstrated by our director nominees. Three of our directors are women and three are ethnically and/or racially diverse. \nOur two newest members enhance the Board’s gender, ethnic and/or racial diversity. We expect Board diversity to \nincrease before our 2024 Meeting.",
+    "metadata": {
+      "block_number": 28,
+      "char_count": 614
+    },
+    "bbox": [
+      48.04,
+      460.79,
+      548.45,
+      524.21
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_text_58",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "text",
+    "content": "Nominee Demographics",
+    "metadata": {
+      "block_number": 29,
+      "char_count": 20
+    },
+    "bbox": [
+      48.04,
+      534.17,
+      143.08,
+      545.18
+    ]
+  },
+  {
+    "element_id": "nvidia_test_subset_chart_7",
+    "doc_name": "nvidia_test_subset",
+    "page_number": 3,
+    "element_type": "chart",
+    "content": "[PIE: Board Composition and Diversity Overview] The infographic contains four donut charts illustrating the board of directors' demographic and background metrics: Tenure, Age, Gender, and Ethnic/Racial Diversity. A majority of the 13 board members have a tenure greater than 10 years (7) and are aged 66 or older (6). In terms of diversity, 3 of the 13 members are women, and 3 members are ethnically or racially diverse.",
+    "metadata": {
+      "image_path": "C:\\Users\\abhir\\OneDrive\\Desktop\\Multimodal financial intelligence RAG system\\financial_rag\\data\\processed\\images\\nvidia_test_subset\\page_3_img_1_xref_19.png",
+      "relative_path": "data/processed/images/nvidia_test_subset/page_3_img_1_xref_19.png",
+      "image_filename": "page_3_img_1_xref_19.png",
+      "width": 2937,
+      "height": 817,
+      "pixel_area": 2399529,
+      "xref": 19,
+      "original_ext": "jpeg",
+      "gemini_analysis": {
+        "chart_type": "pie",
+        "title": "Board Composition and Diversity Overview",
+        "summary": "The infographic contains four donut charts illustrating the board of directors' demographic and background metrics: Tenure, Age, Gender, and Ethnic/Racial Diversity. A majority of the 13 board members have a tenure greater than 10 years (7) and are aged 66 or older (6). In terms of diversity, 3 of the 13 members are women, and 3 members are ethnically or racially diverse.",
+        "data_points": [
+          {
+            "label": "Tenure: < 5 Years",
+            "value": "3 directors"
+          },
+          {
+            "label": "Tenure: 5-10 Years",
+            "value": "3 directors"
+          },
+          {
+            "label": "Tenure: > 10 Years",
+            "value": "7 directors"
+          },
+          {
+            "label": "Age: 40-59",
+            "value": "2 directors"
+          },
+          {
+            "label": "Age: 60-65",
+            "value": "5 directors"
+          },
+          {
+            "label": "Age: 66+",
+            "value": "6 directors"
+          },
+          {
+            "label": "Gender: Women",
+            "value": "3 directors"
+          },
+          {
+            "label": "Gender: Men",
+            "value": "10 directors"
+          },
+          {
+            "label": "Ethnic/Racial Diversity: Ethnically/Racially Diverse",
+            "value": "3 directors"
+          },
+          {
+            "label": "Ethnic/Racial Diversity: Non-Diverse",
+            "value": "10 directors"
+          }
+        ],
+        "time_period": "2023",
+        "is_financial": true
+      }
+    },
+    "bbox": [
+      27.66,
+      547.1,
+      566.34,
+      696.9
+    ]
+  }
+]
